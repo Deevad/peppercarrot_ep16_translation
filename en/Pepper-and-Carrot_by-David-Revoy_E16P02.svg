@@ -44,7 +44,7 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.46"
-     inkscape:cx="1602.735"
+     inkscape:cx="1607.0828"
      inkscape:cy="1840.0765"
      inkscape:window-x="0"
      inkscape:window-y="27"
@@ -58,11 +58,11 @@
     <image
        sodipodi:absref="/home/alex/Documents/Code/Pepper_Carrot/peppercarrot_ep16_translation/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E16P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E16P02.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -217,7 +217,7 @@
          style="font-size:45px"
          x="322.12131"
          y="1252.3259"
-         id="tspan4324">Safran...</tspan></text>
+         id="tspan4324">Saffron...</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
