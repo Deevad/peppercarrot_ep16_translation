@@ -161,9 +161,9 @@
      inkscape:window-height="837"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.2"
-     inkscape:cx="1659.6011"
-     inkscape:cy="2089.4525"
+     inkscape:zoom="1.6"
+     inkscape:cx="1924.0419"
+     inkscape:cy="1785.4011"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -176,11 +176,11 @@
     <image
        sodipodi:absref="/home/alex/Documents/Code/Pepper_Carrot/peppercarrot_ep16_translation/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E16P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E16P01.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -260,16 +260,16 @@
     <text
        sodipodi:linespacing="125%"
        id="text4178-6-5-9-0-7-0-4"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.76241112px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.633;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter5236-4-16);"
+       style="font-size:9.76241112px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.63300003;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter5236-4-16);font-family:Lavi;-inkscape-font-specification:Lavi"
        xml:space="preserve"
        y="3129.8394"
        x="1318.7137"
        transform="matrix(0.69640517,0.04333294,-0.30841015,0.85135761,211.97381,-345.63927)"><tspan
          y="3129.8394"
          x="1318.7137"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.67671585px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#ffffff;fill-opacity:1;"
+         style="font-size:40.67671585px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Fondamento;-inkscape-font-specification:Fondamento"
          sodipodi:role="line"
-         id="tspan4293-1-6-3-5-0-2">BOUCHER</tspan></text>
+         id="tspan4293-1-6-3-5-0-2">BUTCHER</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4178-6-5-9-0-7-0-4-2"
@@ -312,34 +312,34 @@
     <text
        sodipodi:linespacing="125%"
        id="text4178-6-5-9-0-7-0-6"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.76241112px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.79;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter5236-4-6);"
+       style="font-size:9.76241112px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.79000005;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter5236-4-6);font-family:Lavi;-inkscape-font-specification:Lavi"
        xml:space="preserve"
        y="3129.8394"
        x="1318.7137"
        transform="matrix(0.63378659,-0.29184325,0.1318435,0.89584814,976.62946,-710.77251)"><tspan
          y="3129.8394"
          x="1318.7137"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.67671585px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#ffffff;fill-opacity:1;"
+         style="font-size:40.67671585px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Fondamento;-inkscape-font-specification:Fondamento"
          sodipodi:role="line"
-         id="tspan4293-1-6-3-5-0-8">rue</tspan><tspan
+         id="tspan5432">Star</tspan><tspan
          y="3180.6853"
          x="1318.7137"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.67671585px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#ffffff;fill-opacity:1;"
+         style="font-size:40.67671585px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Fondamento;-inkscape-font-specification:Fondamento"
          sodipodi:role="line"
-         id="tspan5432">Etoile</tspan></text>
+         id="tspan3033">Street</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4178-6-5-9-0-7-0-7"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.76241112px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter5236-4-4)"
+       style="font-size:9.76241112px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter5236-4-4);font-family:Lavi;-inkscape-font-specification:Lavi"
        xml:space="preserve"
        y="3129.8394"
        x="1318.7137"
        transform="matrix(0.44203334,-0.07585417,-0.09311426,0.67440584,1649.4395,334.01482)"><tspan
          y="3129.8394"
          x="1318.7137"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.67671585px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#ffffff;fill-opacity:1"
+         style="font-size:40.67671585px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Fondamento;-inkscape-font-specification:Fondamento"
          sodipodi:role="line"
-         id="tspan4293-1-6-3-5-0-6">Coiffeur</tspan></text>
+         id="tspan4293-1-6-3-5-0-6">Hairdresser</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:38.7393074px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;color:#000000;fill:#e69d76;fill-opacity:1;fill-rule:nonzero;stroke:#e99f77;stroke-width:2.9397769;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Arial;-inkscape-font-specification:Arial"
