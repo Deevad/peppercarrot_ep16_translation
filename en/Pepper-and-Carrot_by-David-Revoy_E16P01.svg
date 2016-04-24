@@ -161,9 +161,9 @@
      inkscape:window-height="837"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.28284271"
-     inkscape:cx="1163.1798"
-     inkscape:cy="1092.5579"
+     inkscape:zoom="0.2"
+     inkscape:cx="1659.6011"
+     inkscape:cy="2089.4525"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -176,11 +176,11 @@
     <image
        sodipodi:absref="/home/alex/Documents/Code/Pepper_Carrot/peppercarrot_ep16_translation/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E16P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E16P01.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -221,29 +221,29 @@
     <text
        sodipodi:linespacing="125%"
        id="text4178-6-5-9-0-7"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.76241112px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter5236)"
+       style="font-size:9.76241112px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter5236);font-family:Lavi;-inkscape-font-specification:Lavi"
        xml:space="preserve"
        y="3129.8394"
        x="1318.7137"
        transform="matrix(1.1793167,0.15891164,-0.64834239,1.164866,1618.4381,-1719.3999)"><tspan
          y="3129.8394"
          x="1318.7137"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.67671585px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#ffffff;fill-opacity:1"
+         style="font-size:28.80121803px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Fondamento;-inkscape-font-specification:Fondamento"
          sodipodi:role="line"
-         id="tspan4293-1-6-3-5">Safran</tspan></text>
+         id="tspan4293-1-6-3-5">Saffron</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4178-6-5-9-0-7-0"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.76241112px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter5236-4)"
+       style="font-size:9.76241112px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter5236-4);font-family:Lavi;-inkscape-font-specification:Lavi"
        xml:space="preserve"
        y="3129.8394"
        x="1318.7137"
-       transform="matrix(0.68910717,0.10949528,-0.38813151,0.81809568,1586.4802,-549.53936)"><tspan
+       transform="matrix(0.68910717,0.10949528,-0.38813151,0.81809568,1582.4802,-549.53936)"><tspan
          y="3129.8394"
          x="1318.7137"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.67671585px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#ffffff;fill-opacity:1"
+         style="font-size:32.10795593px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Fondamento;-inkscape-font-specification:Fondamento"
          sodipodi:role="line"
-         id="tspan4293-1-6-3-5-0">Sorcelerie</tspan></text>
+         id="tspan4293-1-6-3-5-0">Witchcraft</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4178-6-5-9-0-7-0-9"
