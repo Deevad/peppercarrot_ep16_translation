@@ -43,13 +43,13 @@
      inkscape:window-height="1033"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.52900001"
-     inkscape:cx="881.33972"
-     inkscape:cy="3120.1824"
+     inkscape:zoom="0.34782609"
+     inkscape:cx="1373.22"
+     inkscape:cy="2726.0324"
      inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
+     inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -58,11 +58,11 @@
     <image
        sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E16P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E16P02.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -228,7 +228,7 @@
          style="font-size:45px"
          x="1775.4443"
          y="1296.1134"
-         id="tspan4318">elles ne font que squater chez moi, se</tspan><tspan
+         id="tspan4318">elles ne font que squatter chez moi, se</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="1775.4443"

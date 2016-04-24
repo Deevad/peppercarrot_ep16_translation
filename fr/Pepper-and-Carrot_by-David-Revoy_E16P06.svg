@@ -205,9 +205,9 @@
      inkscape:window-height="1033"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.60835002"
-     inkscape:cx="798.94382"
-     inkscape:cy="1137.2108"
+     inkscape:zoom="0.40000001"
+     inkscape:cx="1296.7459"
+     inkscape:cy="1037.4088"
      inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -220,11 +220,11 @@
     <image
        sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E16P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E16P06.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -382,7 +382,7 @@
          style="font-size:36.0129776px"
          x="2124.3184"
          y="2276.2585"
-         id="tspan4696">mais c'est</tspan><tspan
+         id="tspan4696">Mais c'est</tspan><tspan
          sodipodi:role="line"
          style="font-size:36.0129776px"
          x="2124.3184"
