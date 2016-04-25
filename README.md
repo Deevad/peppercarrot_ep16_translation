@@ -14,7 +14,10 @@ License
 ## Translators and correctors:
 
 * English: Alex Gryson
+
 * French: David Revoy
+
+* Indonesian: Bonaventura Aditya Perdana
 
 
 ## Artwork:
