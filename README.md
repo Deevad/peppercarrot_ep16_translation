@@ -13,6 +13,8 @@ License
 
 ## Translators and correctors:
 
+* Dutch: Willem Sonke & Midgard
+
 * English: Alex Gryson
 
 * French: David Revoy
