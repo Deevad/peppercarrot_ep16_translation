@@ -1,4 +1,4 @@
-# Pepper&Carrot translation project
+﻿# Pepper&Carrot translation project
 # Episode 16:
 
 [http://www.peppercarrot.com](http://www.peppercarrot.com)
@@ -13,7 +13,16 @@ License
 
 ## Translators and correctors:
 
+* English: Alex Gryson
+
 * French: David Revoy
+
+* Indonesian: Bonaventura Aditya Perdana
+
+* Polish: Sölve Svartskogen
+
+* Portuguese: Alexandre Esteves Almeida
+
 
 
 ## Artwork:
@@ -38,7 +47,7 @@ This folder contains all ready to use built pages in all available language :
 
 * Long strip version in a long single picture (lowres/single-page, Jpeg 92% quality)
 
-* Krita original sources files (zip folder, zipped kra files) 
+* Krita original sources files (zip folder, zipped kra files)
 
 
 ## Info:
