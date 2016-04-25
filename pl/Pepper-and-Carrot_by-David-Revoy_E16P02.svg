@@ -44,8 +44,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.46"
-     inkscape:cx="1062.1757"
-     inkscape:cy="529.62829"
+     inkscape:cx="712.1757"
+     inkscape:cy="3307.8892"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -58,11 +58,11 @@
     <image
        sodipodi:absref="/media/forge/Trashcan/Tests/pct/peppercarrot_ep16_translation/pl/../gfx_Pepper-and-Carrot_by-David-Revoy_E16P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E16P02.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -219,7 +219,7 @@
          style="font-size:45px"
          x="1804.6144"
          y="1290.2509"
-         id="tspan3476">Rozpanoszyły mi się w domu</tspan><tspan
+         id="tspan3476">Rozpanoszyły się w domu</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="1804.6144"
@@ -228,7 +228,7 @@
          sodipodi:role="line"
          style="font-size:40px"
          x="1804.6144"
-         y="1402.7509"
+         y="1398.0978"
          id="tspan3449">Nie wspominając już o krzyczeniu na mnie.</tspan></text>
     <text
        xml:space="preserve"
@@ -266,7 +266,7 @@
          style="font-size:45px"
          x="328.22879"
          y="2498.8447"
-         id="tspan3487">Powiedz mi to wprost!</tspan><tspan
+         id="tspan3487">Powiedz im to wprost!</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="328.22879"

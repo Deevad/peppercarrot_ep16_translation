@@ -205,9 +205,9 @@
      inkscape:window-height="1028"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.56568544"
-     inkscape:cx="1265.6106"
-     inkscape:cy="1662.5852"
+     inkscape:zoom="0.40000001"
+     inkscape:cx="738.58522"
+     inkscape:cy="1582.9478"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -220,11 +220,11 @@
     <image
        sodipodi:absref="/media/forge/Trashcan/Tests/pct/peppercarrot_ep16_translation/pl/../gfx_Pepper-and-Carrot_by-David-Revoy_E16P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E16P06.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -445,28 +445,28 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="734.3606"
+       x="737.88721"
        y="2088.2554"
        id="text4246-2-7-2"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="734.3606"
+         x="737.88721"
          y="2088.2554"
          id="tspan4241-5">Gdy wszystko idzie</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="734.3606"
+         x="737.88721"
          y="2144.5054"
          id="tspan3452">jak po grudzie, nic nie przebije</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="734.3606"
+         x="737.88721"
          y="2200.7554"
-         id="tspan3456">gorącej kąpieli. Ukoi twoje nerwy</tspan><tspan
+         id="tspan3456">gorącej kąpieli. Ukoi nerwy</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="734.3606"
+         x="737.88721"
          y="2257.0054"
          id="tspan3460">i złagodzi reumatyzm.</tspan></text>
     <text
