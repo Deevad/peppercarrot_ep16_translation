@@ -23,6 +23,8 @@ License
 
 * Portuguese: Alexandre Esteves Almeida
 
+* Swedish: Mikael Olofsson
+
 * Mexicano: RJ Quiralta
 
 
