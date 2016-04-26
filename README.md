@@ -15,7 +15,7 @@ License
 
 * English: Alex Gryson
 
-* French: David Revoy
+* French: David Revoy, corrections: Remi Rampin
 
 * Indonesian: Bonaventura Aditya Perdana
 
