@@ -23,6 +23,7 @@ License
 
 * Portuguese: Alexandre Esteves Almeida
 
+* Mexicano: RJ Quiralta
 
 
 ## Artwork:
