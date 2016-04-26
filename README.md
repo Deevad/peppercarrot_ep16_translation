@@ -1,4 +1,4 @@
-# Pepper&Carrot translation project
+﻿# Pepper&Carrot translation project
 # Episode 16:
 
 [http://www.peppercarrot.com](http://www.peppercarrot.com)
@@ -20,6 +20,9 @@ License
 * Indonesian: Bonaventura Aditya Perdana
 
 * Polish: Sölve Svartskogen
+
+* Portuguese: Alexandre Esteves Almeida
+
 
 
 ## Artwork:
