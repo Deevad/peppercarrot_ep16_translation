@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E16P06.svg">
@@ -205,9 +205,9 @@
      inkscape:window-height="1155"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.27091065"
-     inkscape:cx="1240.5"
-     inkscape:cy="1751.5"
+     inkscape:zoom="0.54489808"
+     inkscape:cx="1198.5039"
+     inkscape:cy="453.08035"
      inkscape:window-x="25"
      inkscape:window-y="1"
      inkscape:window-maximized="1"
@@ -218,13 +218,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/Users/gand/Documents/Pepper&amp;Carrot/peppercarrot_ep16_translation/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E16P06.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang-git/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E16P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E16P06.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -441,7 +441,7 @@
          style="font-size:36.73472214px;fill:#000000"
          x="1240.0964"
          y="3300.3928"
-         id="tspan4252-9">04/2016 - www.peppercarrot.com - Dessin &amp; Scénario : David Revoy</tspan></text>
+         id="tspan4252-9">04/2016 - www.peppercarrot.com - Dessin &amp; Scénario : David Revoy, corrections: Remi Rampin</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;stroke:none"
