@@ -1,4 +1,4 @@
-﻿# Pepper&Carrot translation project
+# Pepper&Carrot translation project
 # Episode 16:
 
 [http://www.peppercarrot.com](http://www.peppercarrot.com)
@@ -19,13 +19,15 @@ License
 
 * Indonesian: Bonaventura Aditya Perdana
 
+* Italian: Carlo Gandolfi, Antonio Parisi
+
+* Mexicano: RJ Quiralta
+
 * Polish: Sölve Svartskogen
 
 * Portuguese: Alexandre Esteves Almeida
 
 * Swedish: Mikael Olofsson
-
-* Mexicano: RJ Quiralta
 
 
 ## Artwork:
