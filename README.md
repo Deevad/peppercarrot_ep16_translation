@@ -27,6 +27,8 @@ License
 
 * Portuguese: Alexandre Esteves Almeida
 
+* Russian: Denis "uncle Night" Prisukhin
+
 * Swedish: Mikael Olofsson
 
 * Japanese: guruguru
