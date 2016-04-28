@@ -201,30 +201,30 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1680"
-     inkscape:window-height="1033"
+     inkscape:window-width="1600"
+     inkscape:window-height="831"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.40000001"
-     inkscape:cx="1296.7459"
-     inkscape:cy="1037.4088"
-     inkscape:window-x="1920"
+     inkscape:cx="1371.7459"
+     inkscape:cy="949.9088"
+     inkscape:window-x="1280"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
+     inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E16P06.png"
+       sodipodi:absref="/home/willem/Git/peppercarrot_ep16_translation/nl/../gfx_Pepper-and-Carrot_by-David-Revoy_E16P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E16P06.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -320,7 +320,7 @@
          id="tspan4182"
          x="368.0184"
          y="728.71765"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.4467392px;font-family:'Drukaatie burti';-inkscape-font-specification:'Drukaatie burti'">GRAVITAS SPIRALIS !</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.4467392px;font-family:'Drukaatie burti';-inkscape-font-specification:'Drukaatie burti'">GRAVITAS SPIRALIS!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.64495087px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
@@ -333,7 +333,7 @@
          id="tspan4182-2"
          x="1915.5634"
          y="560.59735"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.4467392px;font-family:'Drukaatie burti';-inkscape-font-specification:'Drukaatie burti'">BRASERO INTENSIA !</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.4467392px;font-family:'Drukaatie burti';-inkscape-font-specification:'Drukaatie burti'">BRASERO INTENSIA!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80657005px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99236238;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9)"
@@ -473,7 +473,7 @@
          style="font-size:45px"
          x="742.95691"
          y="2290.8123"
-         id="tspan4434">jullie zenuwen!...</tspan><tspan
+         id="tspan4434">jullie zenuwen!</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="742.95691"

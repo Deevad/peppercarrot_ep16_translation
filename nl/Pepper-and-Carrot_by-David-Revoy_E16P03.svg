@@ -94,14 +94,14 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1680"
-     inkscape:window-height="1033"
+     inkscape:window-width="1600"
+     inkscape:window-height="831"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.30245748"
-     inkscape:cx="1094.2697"
-     inkscape:cy="532.21431"
-     inkscape:window-x="1920"
+     inkscape:zoom="0.42773947"
+     inkscape:cx="1216.9032"
+     inkscape:cy="1571.7781"
+     inkscape:window-x="1280"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
@@ -111,13 +111,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E16P03.png"
+       sodipodi:absref="/home/willem/Git/peppercarrot_ep16_translation/nl/../gfx_Pepper-and-Carrot_by-David-Revoy_E16P03.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E16P03.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -138,7 +138,7 @@
     <path
        inkscape:connector-curvature="0"
        style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 606.84724,1199.0527 c -122.11458,-0.1553 -244.48307,1.3974 -253.60366,3.2618 -10.32093,2.1097 -27.7784,16.5574 -44.66442,34.332 l -10.05937,-0.7715 6.32512,4.7734 c -0.70103,0.7621 -1.40074,1.5262 -2.09722,2.2969 l -33.61615,-10.8008 24.18261,21.6758 c -7.23771,8.6936 -13.86077,17.5005 -19.1155,25.5567 3.66592,43.0358 6.52109,69.4732 16.2555,90.6367 l -6.1213,15.0136 15.66153,1.1993 c 0.10224,0.1396 0.20892,0.2785 0.31212,0.4179 l -10.90654,17.0274 18.98811,-7.3555 c 0.0415,0.044 0.0794,0.088 0.12103,0.1328 l -24.17625,39.5391 26.34831,-11.1875 -31.41541,36.0449 60.13007,-38.0254 c 0.89903,0.6597 1.77385,1.3105 2.70076,1.9805 0.5289,0.3823 1.09153,0.7569 1.67205,1.1269 l -0.65926,11.3028 13.97035,-5.2149 c 72.87338,24.9347 303.12312,10.5874 407.10576,-0.9453 l 20.76684,27.291 -4.05433,-19.8867 30.40264,29.8301 -15.20132,-39.7754 16.2141,13.6738 -6.07989,-14.916 16.2141,7.457 -1.8297,-12.7148 c 46.38418,-12.9573 71.33221,-41.6658 78.84747,-69.3184 8.1072,-29.8306 4.05397,-70.8483 2.02717,-85.7636 -1.03329,-7.6039 -7.8702,-20.6943 -16.46411,-33.0235 l 11.39699,-15.4511 -17.70143,6.9472 c -6.68121,-8.4372 -13.79239,-15.6965 -19.79387,-19.3769 -8.10719,-4.9718 -129.96832,-6.8349 -252.0829,-6.9903 z"
+       d="m 589.32935,1199.0527 c -129.3059,-0.1553 -258.88066,1.3974 -268.53836,3.2618 -10.92873,2.1097 -29.41427,16.5574 -47.29471,34.332 l -10.65177,-0.7715 6.69761,4.7734 c -0.74231,0.7621 -1.48323,1.5262 -2.22072,2.2969 l -35.59581,-10.8008 25.60673,21.6758 c -7.66394,8.6936 -14.67703,17.5005 -20.24122,25.5567 3.88181,43.0358 6.90512,69.4732 17.21279,90.6367 l -6.48178,15.0136 16.58383,1.1993 c 0.10826,0.1396 0.22123,0.2785 0.3305,0.4179 l -11.54882,17.0274 20.10632,-7.3555 c 0.0439,0.044 0.0841,0.088 0.12815,0.1328 l -25.59998,39.5391 27.89996,-11.1875 -33.26546,36.0449 63.67112,-38.0254 c 0.95198,0.6597 1.87831,1.3105 2.85981,1.9805 0.56005,0.3823 1.15581,0.7569 1.77052,1.1269 l -0.69809,11.3028 14.79307,-5.2149 c 77.16488,24.9347 320.97402,10.5874 431.08019,-0.9453 l 21.98979,27.291 -4.29308,-19.8867 32.19305,29.8301 -16.09653,-39.7754 17.16895,13.6738 -6.43794,-14.916 17.16895,7.457 -1.93745,-12.7148 c 49.11574,-12.9573 75.53296,-41.6658 83.49079,-69.3184 8.58463,-29.8306 4.29271,-70.8483 2.14655,-85.7636 -1.09414,-7.6039 -8.33367,-20.6943 -17.43368,-33.0235 l 12.06816,-15.4511 -18.74387,6.9472 c -7.07466,-8.4372 -14.60462,-15.6965 -20.95953,-19.3769 -8.58462,-4.9718 -137.62214,-6.8349 -266.92804,-6.9903 z"
        id="path4212" />
     <path
        style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -198,24 +198,24 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="590.31335"
-       y="1280.5115"
+       x="569.27252"
+       y="1275.8357"
        id="text4246-9"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="590.31335"
-         y="1280.5115"
+         x="569.27252"
+         y="1275.8357"
          id="tspan4150-0">En je hebt zelfs het lef</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="590.31335"
-         y="1336.7615"
-         id="tspan4208">niet om ons dat alléén</tspan><tspan
+         x="569.27252"
+         y="1332.0857"
+         id="tspan4208">niet om ons dat in je eentje</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="590.31335"
-         y="1393.0115"
+         x="569.27252"
+         y="1388.3357"
          id="tspan4210">te komen zeggen?!</tspan></text>
     <text
        xml:space="preserve"
@@ -236,9 +236,9 @@
          id="tspan4288">speelde, zou ik je een lesje leren!</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="1087.4292"
+         x="1079.519"
          y="2004.959"
-         id="tspan4290">En geen in de hekserij, als je</tspan><tspan
+         id="tspan4290">En dan niet in de hekserij, als je</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="1079.519"
