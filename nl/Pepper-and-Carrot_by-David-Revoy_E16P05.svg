@@ -99,8 +99,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.30245747"
-     inkscape:cx="1082.5972"
-     inkscape:cy="478.15707"
+     inkscape:cx="986.71595"
+     inkscape:cy="2537.9508"
      inkscape:window-x="1280"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -113,11 +113,11 @@
     <image
        sodipodi:absref="/home/willem/Git/peppercarrot_ep16_translation/nl/../gfx_Pepper-and-Carrot_by-David-Revoy_E16P05.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E16P05.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -247,12 +247,12 @@
          style="font-size:45px"
          x="1887.8617"
          y="584.45868"
-         id="tspan4472">Prachtig! Dat is de</tspan><tspan
+         id="tspan4476">Prachtig! Zo mag</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="1887.8617"
          y="640.70868"
-         id="tspan4476">goede instelling!</tspan></text>
+         id="tspan5975">ik het horen!</tspan></text>
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
        d="m 402.77879,347.50484 c 22.15612,15.10333 46.34463,36.52674 51.59716,42.36413 -9.06843,5.91442 -16.48478,13.03038 -22.33305,18.46202 10.67512,9.57878 62.90829,49.98418 79.13553,51.89842 -40.50503,-2.62141 -92.4131,-33.57964 -108.63684,-51.22873 6.9082,-8.69591 11.86637,-14.03973 15.42652,-18.71416 -7.66687,-9.40888 -28.79378,-26.04257 -28.79378,-26.04257 z"
