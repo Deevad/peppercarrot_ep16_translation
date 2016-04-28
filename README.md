@@ -21,6 +21,8 @@ License
 
 * Italian: Carlo Gandolfi, Antonio Parisi
 
+* Japanese: guruguru
+
 * Mexicano: RJ Quiralta
 
 * Polish: Sölve Svartskogen
@@ -31,7 +33,7 @@ License
 
 * Swedish: Mikael Olofsson
 
-* Japanese: guruguru
+* Ukrainian: Denis "uncle Night" Prisukhin
 
 
 ## Artwork:
