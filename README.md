@@ -29,6 +29,8 @@ License
 
 * Swedish: Mikael Olofsson
 
+* Japanese: guruguru
+
 
 ## Artwork:
 
