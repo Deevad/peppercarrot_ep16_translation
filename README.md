@@ -1,4 +1,4 @@
-﻿# Pepper&Carrot translation project
+# Pepper&Carrot translation project
 # Episode 16:
 
 [http://www.peppercarrot.com](http://www.peppercarrot.com)
@@ -12,18 +12,31 @@ License
 [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## Translators and correctors:
+* Chinese: Ran Zhuang
+
+* Dutch: Willem Sonke & Midgard
 
 * English: Alex Gryson
 
-* French: David Revoy
+* French: David Revoy, corrections: Remi Rampin
 
 * Indonesian: Bonaventura Aditya Perdana
+
+* Italian: Carlo Gandolfi, Antonio Parisi
+
+* Japanese: guruguru
+
+* Mexicano: RJ Quiralta
 
 * Polish: Sölve Svartskogen
 
 * Portuguese: Alexandre Esteves Almeida
 
-* Mexicano: RJ Quiralta
+* Russian: Denis "uncle Night" Prisukhin
+
+* Swedish: Mikael Olofsson
+
+* Ukrainian: Denis "uncle Night" Prisukhin
 
 
 ## Artwork:

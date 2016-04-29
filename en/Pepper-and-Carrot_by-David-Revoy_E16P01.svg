@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E16P01.svg">
@@ -111,19 +111,6 @@
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter5236-4-16-8-0"
-       x="-0.0089085409"
-       width="1.0178171"
-       y="-0.027928527"
-       height="1.0558571">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.49168068"
-         id="feGaussianBlur5238-0-4-7-7" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
        id="filter5236-4-6"
        x="-0.0089085409"
        width="1.0178171"
@@ -137,15 +124,15 @@
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter5236-4-4"
-       x="-0.0089085409"
-       width="1.0178171"
-       y="-0.027928527"
-       height="1.0558571">
+       id="filter4226"
+       x="-0.015179913"
+       width="1.0303598"
+       y="-0.069764564"
+       height="1.1395291">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="0.49168068"
-         id="feGaussianBlur5238-0-5" />
+         stdDeviation="1.3681179"
+         id="feGaussianBlur4228" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -161,9 +148,9 @@
      inkscape:window-height="837"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="1.6"
-     inkscape:cx="1924.0419"
-     inkscape:cy="1785.4011"
+     inkscape:zoom="0.52304284"
+     inkscape:cx="1213.0598"
+     inkscape:cy="1417.2262"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -174,13 +161,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/alex/Documents/Code/Pepper_Carrot/peppercarrot_ep16_translation/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E16P01.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang-git/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E16P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E16P01.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -221,27 +208,27 @@
     <text
        sodipodi:linespacing="125%"
        id="text4178-6-5-9-0-7"
-       style="font-size:9.76241112px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter5236);font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.76241112px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter5236)"
        xml:space="preserve"
        y="3129.8394"
        x="1318.7137"
-       transform="matrix(1.1793167,0.15891164,-0.64834239,1.164866,1618.4381,-1719.3999)"><tspan
+       transform="matrix(1.3362123,0.18005316,-0.73459751,1.3198391,1707.2227,-2233.4863)"><tspan
          y="3129.8394"
          x="1318.7137"
-         style="font-size:28.80121803px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Fondamento;-inkscape-font-specification:Fondamento"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.80121803px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#ffffff;fill-opacity:1"
          sodipodi:role="line"
          id="tspan4293-1-6-3-5">Saffron</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4178-6-5-9-0-7-0"
-       style="font-size:9.76241112px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter5236-4);font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.76241112px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter5236-4)"
        xml:space="preserve"
        y="3129.8394"
        x="1318.7137"
-       transform="matrix(0.68910717,0.10949528,-0.38813151,0.81809568,1582.4802,-549.53936)"><tspan
+       transform="matrix(0.81623748,0.12293687,-0.45973616,0.91852476,1662.1783,-882.86153)"><tspan
          y="3129.8394"
          x="1318.7137"
-         style="font-size:32.10795593px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Fondamento;-inkscape-font-specification:Fondamento"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.10795593px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#ffffff;fill-opacity:1"
          sodipodi:role="line"
          id="tspan4293-1-6-3-5-0">Witchcraft</tspan></text>
     <text
@@ -251,7 +238,7 @@
        xml:space="preserve"
        y="3129.8394"
        x="1318.7137"
-       transform="matrix(0.43093962,0.06628576,-0.0640462,0.48957923,1001.2133,550.35056)"><tspan
+       transform="matrix(0.43093962,0.06628576,-0.0640462,0.48957923,873.19984,498.81267)"><tspan
          y="3129.8394"
          x="1318.7137"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.67671585px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#ffffff;fill-opacity:1"
@@ -260,24 +247,24 @@
     <text
        sodipodi:linespacing="125%"
        id="text4178-6-5-9-0-7-0-4"
-       style="font-size:9.76241112px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.63300003;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter5236-4-16);font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.76241112px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.419;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter5236-4-16)"
        xml:space="preserve"
        y="3129.8394"
        x="1318.7137"
-       transform="matrix(0.69640517,0.04333294,-0.30841015,0.85135761,211.97381,-345.63927)"><tspan
+       transform="matrix(0.69640517,0.04333294,-0.30841015,0.85135761,207.90065,-350.87618)"><tspan
          y="3129.8394"
          x="1318.7137"
-         style="font-size:40.67671585px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Fondamento;-inkscape-font-specification:Fondamento"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.67671585px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#ffffff;fill-opacity:1"
          sodipodi:role="line"
          id="tspan4293-1-6-3-5-0-2">BUTCHER</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4178-6-5-9-0-7-0-4-2"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.76241112px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.601;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter5236-4-16-8);"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.76241112px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.363;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter5236-4-16-8);"
        xml:space="preserve"
        y="3129.8394"
        x="1318.7137"
-       transform="matrix(0.57056707,-0.00137851,-0.20641725,0.71364546,790.43259,219.77959)"><tspan
+       transform="matrix(0.57056707,-0.00137851,-0.20641725,0.71364546,835.32043,261.3424)"><tspan
          y="3129.8394"
          x="1318.7137"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.67671585px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#ffffff;fill-opacity:1;"
@@ -286,51 +273,38 @@
     <text
        sodipodi:linespacing="125%"
        id="text4178-6-5-9-0-7-0-4-2-2"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.76241112px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter5236-4-16-8-7)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.76241112px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.625;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter5236-4-16-8-7);"
        xml:space="preserve"
        y="3129.8394"
        x="1318.7137"
        transform="matrix(0.46040874,-0.00115287,-0.16656465,0.59683314,1208.0045,393.49946)"><tspan
          y="3129.8394"
          x="1318.7137"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.67671585px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#ffffff;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.67671585px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#ffffff;fill-opacity:1;"
          sodipodi:role="line"
          id="tspan4293-1-6-3-5-0-2-6-9">13</tspan></text>
     <text
        sodipodi:linespacing="125%"
-       id="text4178-6-5-9-0-7-0-4-2-22"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.76241112px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.601;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter5236-4-16-8-0);"
+       id="text4178-6-5-9-0-7-0-6"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.76241112px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.589;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter5236-4-6);"
        xml:space="preserve"
        y="3129.8394"
        x="1318.7137"
-       transform="matrix(0.57056707,-0.00137851,-0.20641725,0.71364546,400.44761,212.30316)"><tspan
+       transform="matrix(0.63378659,-0.29184325,0.1318435,0.89584814,976.62946,-707.00122)"><tspan
          y="3129.8394"
          x="1318.7137"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.67671585px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#ffffff;fill-opacity:1;"
          sodipodi:role="line"
-         id="tspan4293-1-6-3-5-0-2-6-4">17</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text4178-6-5-9-0-7-0-6"
-       style="font-size:9.76241112px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.79000005;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter5236-4-6);font-family:Lavi;-inkscape-font-specification:Lavi"
-       xml:space="preserve"
-       y="3129.8394"
-       x="1318.7137"
-       transform="matrix(0.63378659,-0.29184325,0.1318435,0.89584814,976.62946,-710.77251)"><tspan
-         y="3129.8394"
-         x="1318.7137"
-         style="font-size:40.67671585px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Fondamento;-inkscape-font-specification:Fondamento"
-         sodipodi:role="line"
          id="tspan5432">Star</tspan><tspan
          y="3180.6853"
          x="1318.7137"
-         style="font-size:40.67671585px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Fondamento;-inkscape-font-specification:Fondamento"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.67671585px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#ffffff;fill-opacity:1;"
          sodipodi:role="line"
          id="tspan3033">Street</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4178-6-5-9-0-7-0-7"
-       style="font-size:9.76241112px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter5236-4-4);font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="font-size:9.76241112px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi;filter:url(#filter4226)"
        xml:space="preserve"
        y="3129.8394"
        x="1318.7137"
