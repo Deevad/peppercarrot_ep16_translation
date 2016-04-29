@@ -161,9 +161,9 @@
      inkscape:window-height="1046"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.4"
-     inkscape:cx="1087.9147"
-     inkscape:cy="927.05879"
+     inkscape:zoom="0.5"
+     inkscape:cx="1286.4147"
+     inkscape:cy="672.55879"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -174,13 +174,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/rjq/Arts and Craft/2015/Translation P&amp;C/GIT/peppercarrot_ep16_translation/mx/../gfx_Pepper-and-Carrot_by-David-Revoy_E16P01.png"
+       sodipodi:absref="/home/rjq/Arts and Craft/Translation P&amp;C/GIT/peppercarrot_ep16_translation/mx/../gfx_Pepper-and-Carrot_by-David-Revoy_E16P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E16P01.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -225,12 +225,12 @@
        xml:space="preserve"
        y="3129.8394"
        x="1318.7137"
-       transform="matrix(1.1793167,0.15891164,-0.64834239,1.164866,1618.4381,-1719.3999)"><tspan
+       transform="matrix(0.83033339,0.14374232,-0.48750836,0.8200125,1740.2778,-602.59427)"><tspan
          y="3129.8394"
          x="1318.7137"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.67671585px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#ffffff;fill-opacity:1"
          sodipodi:role="line"
-         id="tspan4293-1-6-3-5">Safran</tspan></text>
+         id="tspan4293-1-6-3-5">Asafrán</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4178-6-5-9-0-7-0"
@@ -238,12 +238,12 @@
        xml:space="preserve"
        y="3129.8394"
        x="1318.7137"
-       transform="matrix(0.68910717,0.10949528,-0.38813151,0.81809568,1586.4802,-549.53936)"><tspan
+       transform="matrix(0.69531649,0.05824845,-0.32658573,0.84455217,1255.5906,-588.31194)"><tspan
          y="3129.8394"
          x="1318.7137"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.67671585px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#ffffff;fill-opacity:1"
          sodipodi:role="line"
-         id="tspan4293-1-6-3-5-0">Sorcelerie</tspan></text>
+         id="tspan4293-1-6-3-5-0">Hechizos</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4178-6-5-9-0-7-0-9"
@@ -251,7 +251,7 @@
        xml:space="preserve"
        y="3129.8394"
        x="1318.7137"
-       transform="matrix(0.43093962,0.06628576,-0.0640462,0.48957923,1001.2133,550.35056)"><tspan
+       transform="matrix(0.43093962,0.06628576,-0.0640462,0.48957923,874.2133,500.35056)"><tspan
          y="3129.8394"
          x="1318.7137"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.67671585px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#ffffff;fill-opacity:1"
@@ -260,16 +260,16 @@
     <text
        sodipodi:linespacing="125%"
        id="text4178-6-5-9-0-7-0-4"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.76241112px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.633;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter5236-4-16);"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.76241112px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.63300003;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter5236-4-16)"
        xml:space="preserve"
        y="3129.8394"
        x="1318.7137"
        transform="matrix(0.69640517,0.04333294,-0.30841015,0.85135761,211.97381,-345.63927)"><tspan
          y="3129.8394"
          x="1318.7137"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.67671585px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#ffffff;fill-opacity:1;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.67671585px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#ffffff;fill-opacity:1"
          sodipodi:role="line"
-         id="tspan4293-1-6-3-5-0-2">BOUCHER</tspan></text>
+         id="tspan4293-1-6-3-5-0-2">Carnicería</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4178-6-5-9-0-7-0-4-2"
@@ -290,7 +290,7 @@
        xml:space="preserve"
        y="3129.8394"
        x="1318.7137"
-       transform="matrix(0.46040874,-0.00115287,-0.16656465,0.59683314,1208.0045,393.49946)"><tspan
+       transform="matrix(0.46040874,-0.07183661,-0.16656465,0.62240479,1208.0045,407.09667)"><tspan
          y="3129.8394"
          x="1318.7137"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.67671585px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#ffffff;fill-opacity:1"
@@ -312,21 +312,21 @@
     <text
        sodipodi:linespacing="125%"
        id="text4178-6-5-9-0-7-0-6"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.76241112px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.79;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter5236-4-6);"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.76241112px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.79000005;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter5236-4-6)"
        xml:space="preserve"
        y="3129.8394"
        x="1318.7137"
-       transform="matrix(0.63378659,-0.29184325,0.1318435,0.89584814,976.62946,-710.77251)"><tspan
+       transform="matrix(0.51643562,-0.23992846,0.10743155,0.73648941,1212.5231,-274.52717)"><tspan
          y="3129.8394"
          x="1318.7137"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.67671585px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#ffffff;fill-opacity:1;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.9609108px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#ffffff;fill-opacity:1"
          sodipodi:role="line"
-         id="tspan4293-1-6-3-5-0-8">rue</tspan><tspan
-         y="3180.6853"
+         id="tspan4293-1-6-3-5-0-8">Calle</tspan><tspan
+         y="3174.7905"
          x="1318.7137"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.67671585px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#ffffff;fill-opacity:1;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.9609108px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#ffffff;fill-opacity:1"
          sodipodi:role="line"
-         id="tspan5432">Etoile</tspan></text>
+         id="tspan5432">Estrella</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4178-6-5-9-0-7-0-7"
@@ -339,7 +339,7 @@
          x="1318.7137"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.67671585px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#ffffff;fill-opacity:1"
          sodipodi:role="line"
-         id="tspan4293-1-6-3-5-0-6">Coiffeur</tspan></text>
+         id="tspan4293-1-6-3-5-0-6">Estética</tspan></text>
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.7393074px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:#e69d76;fill-opacity:1;fill-rule:nonzero;stroke:#e99f77;stroke-width:2.9397769;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
