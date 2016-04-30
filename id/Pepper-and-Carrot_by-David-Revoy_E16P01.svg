@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E16P01.svg">
@@ -111,19 +111,6 @@
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter5236-4-16-8-0"
-       x="-0.0089085409"
-       width="1.0178171"
-       y="-0.027928527"
-       height="1.0558571">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.49168068"
-         id="feGaussianBlur5238-0-4-7-7" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
        id="filter5236-4-6"
        x="-0.0089085409"
        width="1.0178171"
@@ -162,8 +149,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.48"
-     inkscape:cx="1329.72"
-     inkscape:cy="398.26872"
+     inkscape:cx="1017.9537"
+     inkscape:cy="1107.2135"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -174,13 +161,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/media/bonaditya/DATA/PEPPERCARROT/peppercarrot_ep16_translation-master/id/../gfx_Pepper-and-Carrot_by-David-Revoy_E16P01.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/id/../gfx_Pepper-and-Carrot_by-David-Revoy_E16P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E16P01.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -225,7 +212,7 @@
        xml:space="preserve"
        y="3129.8394"
        x="1318.7137"
-       transform="matrix(1.1793167,0.15891164,-0.64834239,1.164866,1742.1428,-1702.3619)"><tspan
+       transform="matrix(1.1793167,0.15891164,-0.64834239,1.164866,1730.7492,-1704.4334)"><tspan
          y="3129.8394"
          x="1318.7137"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.80121803px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#ffffff;fill-opacity:1"
@@ -238,7 +225,7 @@
        xml:space="preserve"
        y="3129.8394"
        x="1318.7137"
-       transform="matrix(0.68910717,0.10949528,-0.38813151,0.81809568,1460.2193,-569.5458)"><tspan
+       transform="matrix(0.81805625,0.12570923,-0.46076056,0.93923849,1509.405,-971.09629)"><tspan
          y="3129.8394"
          x="1318.7137"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.10795593px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#ffffff;fill-opacity:1"
@@ -251,7 +238,7 @@
        xml:space="preserve"
        y="3129.8394"
        x="1318.7137"
-       transform="matrix(0.43093962,0.06628576,-0.0640462,0.48957923,1001.2133,550.35056)"><tspan
+       transform="matrix(0.43093962,0.06628576,-0.0640462,0.48957923,981.53339,544.13585)"><tspan
          y="3129.8394"
          x="1318.7137"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.67671585px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#ffffff;fill-opacity:1"
@@ -296,19 +283,6 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.67671585px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#ffffff;fill-opacity:1"
          sodipodi:role="line"
          id="tspan4293-1-6-3-5-0-2-6-9">13</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text4178-6-5-9-0-7-0-4-2-22"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.76241112px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.601;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter5236-4-16-8-0);"
-       xml:space="preserve"
-       y="3129.8394"
-       x="1318.7137"
-       transform="matrix(0.57056707,-0.00137851,-0.20641725,0.71364546,400.44761,212.30316)"><tspan
-         y="3129.8394"
-         x="1318.7137"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.67671585px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#ffffff;fill-opacity:1;"
-         sodipodi:role="line"
-         id="tspan4293-1-6-3-5-0-2-6-4">17</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4178-6-5-9-0-7-0-6"
