@@ -99,8 +99,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.65193397"
-     inkscape:cx="1059.68"
-     inkscape:cy="3261.278"
+     inkscape:cx="1182.3918"
+     inkscape:cy="1420.6008"
      inkscape:window-x="25"
      inkscape:window-y="1"
      inkscape:window-maximized="1"
@@ -113,11 +113,11 @@
     <image
        sodipodi:absref="/Users/gand/Documents/Pepper&amp;Carrot/peppercarrot_ep16_translation/it/../gfx_Pepper-and-Carrot_by-David-Revoy_E16P03.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E16P03.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -131,7 +131,7 @@
        sodipodi:nodetypes="cccccccccccc" />
     <path
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 1006.3726,237.31343 -50.87682,-8.62236 4.50547,14.09441 c -30.29798,0.76478 -46.08381,-3.65883 -67.58122,-6.04045 l 33.79055,18.12127 -5.63172,5.03373 c 5.48604,2.94322 13.7639,4.95064 15.7689,9.06067 -15.30541,2.56124 -26.30967,2.55955 -38.96729,3.543 11.90995,3.40383 21.8256,7.34232 28.83011,12.06145 l -40.54869,8.05387 37.16716,7.04607 c -27.95598,11.58645 -63.09304,18.89383 -95.73764,27.68651 l 116.01449,-4.02702 -18.02156,9.06067 c 11.59552,4.71584 10.57077,2.38156 15.76889,3.52363 2.53137,3.39377 -39.88245,17.50461 -36.04332,16.10785 4.5055,-0.50341 42.80147,-2.51691 42.80147,-2.51691 0,0 -33.79067,14.0944 -29.28518,14.0944 4.50532,0 41.67505,-3.52362 41.67505,-3.52362 l -12.38987,13.591 48.43328,-7.55055 -20.27446,16.89905 c 12.60108,-0.99417 20.73134,-1.34121 16.2513,4.53488 0.42393,7.80509 -0.0949,11.33494 -4.11765,22.36759 18.08995,-3.08477 22.04285,-2.07119 36.29975,-3.02857 58.6341,-29.30017 45.2359,-9.74814 37.1695,11.5775 l 45.0544,-17.61795 7.8845,12.08089 33.7905,-15.10112 0,15.60452 c 17.4553,-3.01772 27.4732,-12.52262 43.928,-18.12135 l 3.3788,58.39091 58.7913,-54.86198 11.7579,28.54067 28.5704,-21.4988 3.379,16.10783 31.538,-21.64489 23.6534,19.63139 22.5273,-18.12128 c 36.3956,18.37512 56.6856,35.00224 84.4764,49.33023 -4.7543,-20.32012 -8.7215,-40.05427 -6.758,-55.37067 12.7653,-1.59608 25.5305,1.59628 38.2959,6.04044 l -6.7582,-13.591 47.3071,9.06067 -21.4008,-21.14157 c 72.2123,-0.67737 57.7155,2.95086 74.3395,5.03372 l -13.5162,-13.591 49.5598,10.57078 c -13.5391,-11.24696 -31.3219,-23.44229 -40.5491,-33.72578 l 51.8123,2.51683 c -20.3034,-9.04805 -45.8127,-15.76968 -60.0173,-27.54316 l 45.3748,-1.1489 -42.8014,-15.10111 33.7904,-8.55728 -27.0322,-2.01352 45.054,-18.12126 -59.6968,-1.51012 72.0868,-32.71907 -83.3504,7.04725 6.7581,-23.65841 -46.1804,17.11456 46.1804,-59.39762 c -37.6336,20.98117 -72.5699,32.90986 -116.6531,53.57048 l -16.2646,-5.96477 -18.0139,3.089 4.5054,-16.96892 -66.4548,20.6381 6.7582,-9.564 -20.2745,9.06068 4.5052,-12.58429 -34.9169,15.10111 3.2148,-13.15756 -16.731,8.62723 -5.152,-8.26719 -19.6278,5.24697 c -18.8859,-20.23219 -36.3297,-55.95509 -36.3297,-55.95509 0,0 -20.5809,25.43081 -43.6417,56.96187 l -12.3899,-9.56061 -15.4481,8.84054 -15.6048,-11.4274 -23.4945,13.65531 c -18.5791,-10.40298 -29.4,-16.77675 -36.6872,-27.17975 3.594,9.74979 6.2067,16.29936 0.9646,27.03632 -68.5854,-16.43858 -66.5323,-17.90451 -92.19946,-27.03632 -7.03328,11.73738 17.68656,22.75764 13.70706,31.77737 z"
+       d="m 989.39893,237.31343 -55.20115,-8.62236 4.88842,14.09441 c -32.87318,0.76478 -50.00075,-3.65883 -73.32536,-6.04045 l 36.66262,18.12127 -6.11039,5.03373 c 5.95232,2.94322 14.93377,4.95064 17.10919,9.06067 -16.60631,2.56124 -28.54589,2.55955 -42.27935,3.543 12.92224,3.40383 23.68069,7.34232 31.28055,12.06145 l -43.99517,8.05387 40.32622,7.04607 c -30.33213,11.58645 -68.45569,18.89383 -103.87495,27.68651 l 125.87525,-4.02702 -19.55332,9.06067 c 12.58109,4.71584 11.46924,2.38156 17.10919,3.52363 2.74652,3.39377 -43.2723,17.50461 -39.10686,16.10785 4.88845,-0.50341 46.43942,-2.51691 46.43942,-2.51691 0,0 -36.66274,14.0944 -31.7743,14.0944 4.88825,0 45.21726,-3.52362 45.21726,-3.52362 l -13.44296,13.591 52.54991,-7.55055 -21.99771,16.89905 c 13.67213,-0.99417 22.49342,-1.34121 17.63259,4.53488 0.45997,7.80509 -0.103,11.33494 -4.46762,22.36759 19.62751,-3.08477 23.91639,-2.07119 39.38509,-3.02857 63.6178,-29.30017 49.0807,-9.74814 40.3288,11.5775 l 48.8838,-17.61795 8.5546,12.08089 36.6626,-15.10112 0,15.60452 c 18.9389,-3.01772 29.8083,-12.52262 47.6617,-18.12135 l 3.666,58.39091 63.7883,-54.86198 12.7573,28.54067 30.9988,-21.4988 3.6662,16.10783 34.2185,-21.64489 25.6639,19.63139 24.442,-18.12128 c 39.4891,18.37512 61.5037,35.00224 91.6566,49.33023 -5.1585,-20.32012 -9.4628,-40.05427 -7.3324,-55.37067 13.8503,-1.59608 27.7004,1.59628 41.5509,6.04044 l -7.3326,-13.591 51.3279,9.06067 -23.2197,-21.14157 c 78.35,-0.67737 62.621,2.95086 80.658,5.03372 l -14.665,-13.591 53.7722,10.57078 c -14.6898,-11.24696 -33.9842,-23.44229 -43.9956,-33.72578 l 56.2161,2.51683 c -22.0291,-9.04805 -49.7066,-15.76968 -65.1185,-27.54316 l 49.2314,-1.1489 -46.4393,-15.10111 36.6624,-8.55728 -29.3298,-2.01352 48.8835,-18.12126 -64.7708,-1.51012 78.2138,-32.71907 -90.4348,7.04725 7.3325,-23.65841 -50.1056,17.11456 50.1056,-59.39762 c -40.8322,20.98117 -78.7381,32.90986 -126.5681,53.57048 l -17.6471,-5.96477 -19.545,3.089 4.8884,-16.96892 -72.1032,20.6381 7.3326,-9.564 -21.9977,9.06068 4.8881,-12.58429 -37.8847,15.10111 3.488,-13.15756 -18.153,8.62723 -5.59,-8.26719 -21.296,5.24697 c -20.4912,-20.23219 -39.4176,-55.95509 -39.4176,-55.95509 0,0 -22.3302,25.43081 -47.351,56.96187 l -13.4431,-9.56061 -16.7611,8.84054 -16.9311,-11.4274 -25.4915,13.65531 c -20.1582,-10.40298 -31.8988,-16.77675 -39.8054,-27.17975 3.8995,9.74979 6.7342,16.29936 1.0466,27.03632 -74.4149,-16.43858 -72.1873,-17.90451 -100.03608,-27.03632 -7.63108,11.73738 19.18984,22.75764 14.87211,31.77737 z"
        id="path4024"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccccccccsccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
@@ -189,12 +189,12 @@
          style="font-size:45px"
          x="1268.6267"
          y="292.50793"
-         id="tspan4150">Cosa significa:</tspan><tspan
+         id="tspan4150">Come sarebbe a dire</tspan><tspan
          sodipodi:role="line"
-         style="font-size:45px;font-style:italic;-inkscape-font-specification:Lavi Italic"
+         style="font-size:45px;font-style:normal;-inkscape-font-specification:Lavi"
          x="1268.6267"
          y="348.75793"
-         id="tspan3537">«non sto imparando niente»?!</tspan></text>
+         id="tspan3537">che non stai imparando niente?!</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
@@ -233,7 +233,7 @@
          style="font-size:45px"
          x="1079.519"
          y="1994.959"
-         id="tspan3555">E non certo di stregoneria</tspan><tspan
+         id="tspan3555">E non certo di stregoneria…</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="1079.519"
@@ -270,134 +270,134 @@
          id="tspan4292-6">Hanno ragione...</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.20311546px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.41015577;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:8.20311546px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.41015577;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Lavi;-inkscape-font-specification:Lavi"
        x="761.90906"
        y="920.14966"
        id="text4246-8"
        sodipodi:linespacing="125%"
        transform="matrix(0.89618363,-0.24886542,0.02679547,1.1084018,0,0)"><tspan
          sodipodi:role="line"
-         style="font-size:30.7616806px;fill:#ffffff;stroke:#ffffff;stroke-width:0.41015577;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-size:30.7616806px;fill:#ffffff;stroke:#ffffff;stroke-width:0.41015577;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          x="761.90906"
          y="920.14966"
-         id="tspan4150-8">piou</tspan></text>
+         id="tspan4150-8">cip</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.20311546px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.41015577;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:8.20311546px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.41015577;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Lavi;-inkscape-font-specification:Lavi"
        x="543.87469"
        y="837.68304"
        id="text4246-8-4"
        sodipodi:linespacing="125%"
        transform="matrix(0.89618362,-0.24886542,0.02679547,1.1084018,0,0)"><tspan
          sodipodi:role="line"
-         style="font-size:30.7616806px;fill:#ffffff;stroke:#ffffff;stroke-width:0.41015577;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-size:30.7616806px;fill:#ffffff;stroke:#ffffff;stroke-width:0.41015577;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          x="543.87469"
          y="837.68304"
-         id="tspan4150-8-7">piou</tspan></text>
+         id="tspan4150-8-7">cip</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.20311546px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.41015577;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:8.20311546px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.41015577;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Lavi;-inkscape-font-specification:Lavi"
        x="331.09775"
        y="939.14404"
        id="text4246-8-5"
        sodipodi:linespacing="125%"
        transform="matrix(0.89618362,-0.24886542,0.02679547,1.1084018,0,0)"><tspan
          sodipodi:role="line"
-         style="font-size:30.7616806px;fill:#ffffff;stroke:#ffffff;stroke-width:0.41015577;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-size:30.7616806px;fill:#ffffff;stroke:#ffffff;stroke-width:0.41015577;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          x="331.09775"
          y="939.14404"
-         id="tspan4150-8-71">piou</tspan></text>
+         id="tspan4150-8-71">cip</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.20311546px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.41015577;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:8.20311546px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.41015577;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Lavi;-inkscape-font-specification:Lavi"
        x="85.560303"
        y="991.41766"
        id="text4246-8-7"
        sodipodi:linespacing="125%"
        transform="matrix(0.73686042,-0.56755246,0.44156597,1.0170015,0,0)"><tspan
          sodipodi:role="line"
-         style="font-size:30.7616806px;fill:#ffffff;stroke:#ffffff;stroke-width:0.41015577;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-size:30.7616806px;fill:#ffffff;stroke:#ffffff;stroke-width:0.41015577;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          x="85.560303"
          y="991.41766"
-         id="tspan4150-8-79">piou</tspan></text>
+         id="tspan4150-8-79">cip</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.20311546px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.41015577;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:8.20311546px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.41015577;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Lavi;-inkscape-font-specification:Lavi"
        x="329.94168"
        y="1083.0319"
        id="text4246-8-9"
        sodipodi:linespacing="125%"
        transform="matrix(0.89618362,-0.24886542,0.02679547,1.1084018,0,0)"><tspan
          sodipodi:role="line"
-         style="font-size:30.7616806px;fill:#ffffff;stroke:#ffffff;stroke-width:0.41015577;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-size:30.7616806px;fill:#ffffff;stroke:#ffffff;stroke-width:0.41015577;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          x="329.94168"
          y="1083.0319"
-         id="tspan4150-8-2">piou</tspan></text>
+         id="tspan4150-8-2">cip</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.20311546px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.41015577;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:8.20311546px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.41015577;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Lavi;-inkscape-font-specification:Lavi"
        x="550.73297"
        y="1011.4202"
        id="text4246-8-7-5"
        sodipodi:linespacing="125%"
        transform="matrix(0.89774282,-0.24318074,0.01977029,1.1085494,0,0)"><tspan
          sodipodi:role="line"
-         style="font-size:30.7616806px;fill:#ffffff;stroke:#ffffff;stroke-width:0.41015577;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-size:30.7616806px;fill:#ffffff;stroke:#ffffff;stroke-width:0.41015577;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          x="550.73297"
          y="1011.4202"
-         id="tspan4150-8-79-8">piou</tspan></text>
+         id="tspan4150-8-79-8">cip</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.20311546px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.41015577;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:8.20311546px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.41015577;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Lavi;-inkscape-font-specification:Lavi"
        x="156.05554"
        y="847.95422"
        id="text4246-8-7-4"
        sodipodi:linespacing="125%"
        transform="matrix(0.73686042,-0.56755246,0.44156597,1.0170015,0,0)"><tspan
          sodipodi:role="line"
-         style="font-size:30.7616806px;fill:#ffffff;stroke:#ffffff;stroke-width:0.41015577;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-size:30.7616806px;fill:#ffffff;stroke:#ffffff;stroke-width:0.41015577;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          x="156.05554"
          y="847.95422"
-         id="tspan4150-8-79-5">piou</tspan></text>
+         id="tspan4150-8-79-5">cip</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.20311546px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.41015577;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:8.20311546px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.41015577;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Lavi;-inkscape-font-specification:Lavi"
        x="351.84869"
        y="983.09503"
        id="text4246-8-7-6"
        sodipodi:linespacing="125%"
        transform="matrix(0.73686042,-0.56755246,0.44156597,1.0170015,0,0)"><tspan
          sodipodi:role="line"
-         style="font-size:30.7616806px;fill:#ffffff;stroke:#ffffff;stroke-width:0.41015577;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-size:30.7616806px;fill:#ffffff;stroke:#ffffff;stroke-width:0.41015577;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          x="351.84869"
          y="983.09503"
-         id="tspan4150-8-79-86">piou</tspan></text>
+         id="tspan4150-8-79-86">cip</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.20311546px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.41015577;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:8.20311546px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.41015577;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Lavi;-inkscape-font-specification:Lavi"
        x="-99.220016"
        y="858.89972"
        id="text4246-8-7-3"
        sodipodi:linespacing="125%"
        transform="matrix(0.73686042,-0.56755246,0.44156597,1.0170015,0,0)"><tspan
          sodipodi:role="line"
-         style="font-size:30.7616806px;fill:#ffffff;stroke:#ffffff;stroke-width:0.41015577;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-size:30.7616806px;fill:#ffffff;stroke:#ffffff;stroke-width:0.41015577;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          x="-99.220016"
          y="858.89972"
-         id="tspan4150-8-79-2">piou</tspan></text>
+         id="tspan4150-8-79-2">cip</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.20311546px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.41015577;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:8.20311546px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.41015577;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Lavi;-inkscape-font-specification:Lavi"
        x="-166.903"
        y="978.23053"
        id="text4246-8-7-3-4"
        sodipodi:linespacing="125%"
        transform="matrix(0.73686042,-0.56755246,0.44156597,1.0170015,0,0)"><tspan
          sodipodi:role="line"
-         style="font-size:30.7616806px;fill:#ffffff;stroke:#ffffff;stroke-width:0.41015577;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-size:30.7616806px;fill:#ffffff;stroke:#ffffff;stroke-width:0.41015577;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          x="-166.903"
          y="978.23053"
-         id="tspan4150-8-79-2-4">piou</tspan></text>
+         id="tspan4150-8-79-2-4">cip</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:17.80657005px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99236238;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter4375-4-1-1-1);font-family:Lavi;-inkscape-font-specification:Lavi"
@@ -412,6 +412,6 @@
          y="1584.5073"
          style="font-size:70px;fill:#ffffff"><tspan
            style="font-size:80.40014648px"
-           id="tspan4617">BAM!</tspan></tspan></text>
+           id="tspan4617">SBAM!</tspan></tspan></text>
   </g>
 </svg>

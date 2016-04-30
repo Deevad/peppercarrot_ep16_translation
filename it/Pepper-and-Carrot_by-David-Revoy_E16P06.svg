@@ -207,7 +207,7 @@
      showgrid="false"
      inkscape:zoom="0.56568544"
      inkscape:cx="1320.9131"
-     inkscape:cy="1508.1894"
+     inkscape:cy="1154.636"
      inkscape:window-x="25"
      inkscape:window-y="1"
      inkscape:window-maximized="1"
@@ -220,11 +220,11 @@
     <image
        sodipodi:absref="/Users/gand/Documents/Pepper&amp;Carrot/peppercarrot_ep16_translation/it/../gfx_Pepper-and-Carrot_by-David-Revoy_E16P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E16P06.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -375,19 +375,24 @@
        xml:space="preserve"
        style="font-size:10.80389404px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
        x="2122.3184"
-       y="2304.2585"
+       y="2284.813"
        id="text4246-2-0"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:36.0129776px"
          x="2122.3184"
-         y="2304.2585"
+         y="2284.813"
          id="tspan3664">Ma che razza</tspan><tspan
          sodipodi:role="line"
          style="font-size:36.0129776px"
          x="2122.3184"
-         y="2349.2747"
-         id="tspan3064">di lezione è!</tspan></text>
+         y="2329.8291"
+         id="tspan3064">di lezioni sono</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:36.0129776px"
+         x="2122.3184"
+         y="2374.8455"
+         id="tspan3056">queste!</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:9.72782516px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.85500004;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
