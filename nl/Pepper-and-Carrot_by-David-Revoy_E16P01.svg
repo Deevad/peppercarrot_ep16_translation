@@ -134,6 +134,19 @@
          stdDeviation="0.49168068"
          id="feGaussianBlur5238-0-5" />
     </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4273"
+       x="-0.025322031"
+       width="1.0506441"
+       y="-0.032419384"
+       height="1.0648388">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.46364816"
+         id="feGaussianBlur4275" />
+    </filter>
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -148,9 +161,9 @@
      inkscape:window-height="1033"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.4"
-     inkscape:cx="1269.1647"
-     inkscape:cy="984.55879"
+     inkscape:zoom="0.529"
+     inkscape:cx="1633.1154"
+     inkscape:cy="1386.8941"
      inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -163,11 +176,11 @@
     <image
        sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/nl/../gfx_Pepper-and-Carrot_by-David-Revoy_E16P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E16P01.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -286,16 +299,16 @@
     <text
        sodipodi:linespacing="125%"
        id="text4178-6-5-9-0-7-0-6"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.76241112px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.79;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter5236-4-6);"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.76241112px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.79000005;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter5236-4-6)"
        xml:space="preserve"
        y="3129.8394"
        x="1318.7137"
-       transform="matrix(0.60105637,-0.27677178,0.12503479,0.84958445,1045.5858,-559.27743)"><tspan
+       transform="matrix(0.60105637,-0.27677178,0.12503479,0.84958445,1043.7319,-569.16482)"><tspan
          y="3129.8394"
          x="1318.7137"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.67671585px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#ffffff;fill-opacity:1;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.67671585px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#ffffff;fill-opacity:1"
          sodipodi:role="line"
-         id="tspan4293-1-6-3-5-0-8">Sterstraat</tspan></text>
+         id="tspan4293-1-6-3-5-0-8">Markt</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4178-6-5-9-0-7-0-7"
@@ -335,5 +348,12 @@
          x="1561.5464"
          y="2922.8894"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle;stroke-width:3.13400006;stroke-miterlimit:4;stroke-dasharray:none">Gloek</tspan></text>
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:0.64900662;fill-rule:nonzero;stroke:none;stroke-width:0.73841333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter4273);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 2213.7037,1744.8074 c 9.6178,4.2745 29.3878,-5.6104 29.3878,-5.6104 l -0.8015,-7.2134 14.4268,6.4119 -10.1522,13.8924 -1.603,-5.6104 c 0,0 -21.373,2.6716 -28.5863,14.9611 0.5343,-0.5344 -2.6716,-16.8312 -2.6716,-16.8312 z"
+       id="path4177"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc"
+       transform="matrix(0.65828034,-0.09767999,-0.04122619,0.6352735,832.53771,855.13383)" />
   </g>
 </svg>
