@@ -25,7 +25,7 @@ License
 
 * Indonesian: Bonaventura Aditya Perdana
 
-* Italian: Carlo Gandolfi, Antonio Parisi
+* Italian: Carlo Gandolfi, corrections: Antonio Parisi
 
 * Japanese: guruguru
 
