@@ -12,6 +12,9 @@ License
 [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## Translators and correctors:
+
+* Catalan: Juan José Segura
+
 * Chinese: Ran Zhuang
 
 * Dutch: Willem Sonke & Midgard
