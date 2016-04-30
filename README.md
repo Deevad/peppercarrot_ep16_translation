@@ -34,6 +34,8 @@ License
 
 * Russian: Denis "uncle Night" Prisukhin
 
+* Slovak: talime
+
 * Swedish: Mikael Olofsson
 
 * Ukrainian: Denis "uncle Night" Prisukhin
