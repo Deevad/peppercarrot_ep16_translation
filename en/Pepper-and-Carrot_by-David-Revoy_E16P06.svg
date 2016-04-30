@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E16P06.svg">
@@ -206,8 +206,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.56568544"
-     inkscape:cx="1391.6238"
-     inkscape:cy="306.10789"
+     inkscape:cx="1323.5648"
+     inkscape:cy="2148.121"
      inkscape:window-x="25"
      inkscape:window-y="1"
      inkscape:window-maximized="1"
@@ -218,13 +218,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/Users/gand/Documents/Pepper&amp;Carrot/peppercarrot_ep16_translation/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E16P06.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep16_The-Sage-of-the-Mountain/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E16P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E16P06.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -341,14 +341,14 @@
        y="1584.5073"
        id="text4580"
        sodipodi:linespacing="125%"
-       transform="matrix(1.1015253,-0.87314706,0.0870639,1.7091559,1073.6546,-517.49001)"><tspan
+       transform="matrix(1.1015253,-0.87314706,0.0870639,1.7091559,1054.2092,-513.95448)"><tspan
          sodipodi:role="line"
          id="tspan4582"
          x="787.65729"
          y="1584.5073"
-         style="font-size:70px;fill:#ffffff;stroke:none">Plouf<tspan
-   style="font-size:80.40014648px;stroke:none"
-   id="tspan4617">!</tspan></tspan></text>
+         style="font-size:70px;fill:#ffffff;stroke:none"><tspan
+           style="font-size:80.40014648px;stroke:none"
+           id="tspan4617">Splash!</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
