@@ -44,19 +44,19 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.42773947"
-     inkscape:cx="1100.6688"
-     inkscape:cy="704.21062"
+     inkscape:cx="698.75764"
+     inkscape:cy="995.33907"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer3" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/rjq/Arts and Craft/2015/Translation P&amp;C/GIT/peppercarrot_ep16_translation/mx/../gfx_Pepper-and-Carrot_by-David-Revoy_E16P04.png"
+       sodipodi:absref="/home/rjq/Arts and Craft/Translation P&amp;C/GIT/peppercarrot_ep16_translation/mx/../gfx_Pepper-and-Carrot_by-David-Revoy_E16P04.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E16P04.png"
        width="2481"
        height="3503"
@@ -135,13 +135,13 @@
        inkscape:transform-center-y="21.85935" />
     <path
        style="fill:#ffffff;stroke:none"
-       d="m 333.8167,2342.1368 c 1.80037,-55.1279 70.15142,-63.2247 116.26321,-60.8217 38.33993,1.9981 185.78044,-11.9117 227.7988,38.4094 17.94243,21.4878 15.03561,77.5661 -9.90358,100.9098 -21.26724,19.9066 -59.92416,20.5191 -107.0349,26.7507 -58.49742,7.7377 -142.35537,-5.8877 -188.30051,-15.8346 -21.62769,-4.6823 -40.62347,-34.2859 -38.82302,-89.4136 z"
+       d="m 361.85637,2342.1368 c 1.57552,-55.1279 61.39019,-63.2247 101.74306,-60.8217 33.55164,1.9981 162.57825,-11.9117 199.34893,38.4094 15.70159,21.4878 13.15781,77.5661 -8.66672,100.9098 -18.61117,19.9066 -52.44021,20.5191 -93.66728,26.7507 -51.19165,7.7377 -124.57656,-5.8877 -164.78359,-15.8346 -18.9266,-4.6823 -35.54999,-34.2859 -33.9744,-89.4136 z"
        id="path3100"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="zsssssz" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 463.53219,2540.3406 c -2.89667,-119.0514 117.01495,-106.2913 202.37612,-115.5767 46.58619,-5.0676 215.65267,8.198 231.72226,113.818 9.25641,60.8402 -48.1387,112.7882 -70.87767,121.9235 -22.73882,9.1352 -132.61473,20.9828 -167.98034,18.1991 -35.36546,-2.7838 -198.66524,21.601 -195.24037,-138.3639 z"
+       d="m 463.53219,2538.1609 c -2.89667,-104.8768 117.01495,-93.636 202.37612,-101.8159 46.58619,-4.4642 215.65267,7.2219 231.72226,100.2665 9.25641,53.5964 -48.1387,99.3594 -70.87767,107.407 -22.73882,8.0475 -132.61473,18.4846 -167.98034,16.0322 -35.36546,-2.4523 -198.66524,19.0292 -195.24037,-121.8898 z"
        id="path4974"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssssc" />
@@ -179,7 +179,7 @@
          style="font-size:45px"
          x="515.20721"
          y="218.80753"
-         id="tspan4337">Somos todas unas adultas,</tspan><tspan
+         id="tspan4337">Ya son unas adultas,</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="515.20721"
@@ -222,15 +222,15 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="1069.6064"
-       y="1116.4899"
+       x="1064.9307"
+       y="1114.152"
        id="text4246-9-6-2"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="1069.6064"
-         y="1116.4899"
-         id="tspan4183-4-1">¿El Sabio?</tspan></text>
+         x="1064.9307"
+         y="1114.152"
+         id="tspan4183-4-1">¿ El Sabio ?</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -290,21 +290,21 @@
          id="tspan4359">¡Vámonos!</tspan></text>
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 1859.9208,2026.0859 c -20.4432,-14.3102 -27.5983,-27.5982 -25.5539,-35.7755 2.0443,-8.1772 20.4431,-50.0857 42.9305,-55.1965 22.4875,-5.1108 80.7504,-11.2437 94.0385,-6.1329 13.2881,5.1107 51.1079,38.842 51.1079,56.2186 0,17.3767 -7.1551,51.1079 -27.5983,61.3294 -20.4431,10.2216 -110.393,16.3546 -134.9247,-20.4431 z"
+       d="m 1872.7705,2022.7077 c -30.5898,-12.4706 -41.2963,-24.0506 -38.2371,-31.1767 3.0589,-7.126 30.5895,-43.6472 64.2382,-48.1011 33.6487,-4.4538 120.8293,-9.7983 140.7127,-5.3445 19.8834,4.4538 76.4744,33.8489 76.4744,48.9918 0,15.143 -10.7065,44.5382 -41.2963,53.4457 -30.5896,8.9076 -165.1844,14.2523 -201.8919,-17.8152 z"
        id="path3349"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="1926.6875"
-       y="2003.7067"
+       x="1973.4449"
+       y="2006.0446"
        id="text4246-9-6-2-4-7-38"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="1926.6875"
-         y="2003.7067"
-         id="tspan4364-4">¿&quot;nos&quot;?</tspan></text>
+         x="1973.4449"
+         y="2006.0446"
+         id="tspan4364-4">¿Vámo-nos?</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -330,39 +330,34 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="680.88483"
-       y="2415.6821"
+       x="673.87122"
+       y="2446.0745"
        id="text4246-9-6-2-4-7-3-4-8-5-3"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="680.88483"
-         y="2415.6821"
+         x="673.87122"
+         y="2446.0745"
          id="tspan4580-41" /><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="680.88483"
-         y="2471.9321"
-         id="tspan4232">les estamos</tspan><tspan
+         x="673.87122"
+         y="2502.3245"
+         id="tspan4236">Ésta es su</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="680.88483"
-         y="2528.1821"
-         id="tspan4236">dando la gran</tspan><tspan
+         x="673.87122"
+         y="2558.5745"
+         id="tspan4213">gran opurtinidad de</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="680.88483"
-         y="2584.4321"
-         id="tspan4213">opurtinidad de</tspan><tspan
-         sodipodi:role="line"
-         style="font-size:45px"
-         x="680.88483"
-         y="2640.6821"
+         x="673.87122"
+         y="2614.8245"
          id="tspan4215">conocer al Sabio.</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="680.88483"
-         y="2696.9321"
+         x="673.87122"
+         y="2671.0745"
          id="tspan4251-3" /></text>
     <text
        xml:space="preserve"
