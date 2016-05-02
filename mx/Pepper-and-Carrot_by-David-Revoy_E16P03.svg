@@ -99,25 +99,25 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.34942076"
-     inkscape:cx="1246.6901"
-     inkscape:cy="606.45675"
+     inkscape:cx="605.62916"
+     inkscape:cy="743.59778"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
+     inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/rjq/Arts and Craft/2015/Translation P&amp;C/GIT/peppercarrot_ep16_translation/mx/../gfx_Pepper-and-Carrot_by-David-Revoy_E16P03.png"
+       sodipodi:absref="/home/rjq/Arts and Craft/Translation P&amp;C/GIT/peppercarrot_ep16_translation/mx/../gfx_Pepper-and-Carrot_by-David-Revoy_E16P03.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E16P03.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -211,7 +211,7 @@
          style="font-size:45px"
          x="520.52173"
          y="1268.3695"
-         id="tspan4210">¡¿ Además, no estás lo</tspan><tspan
+         id="tspan4210">¡¿ Además, que no estás lo</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="520.52173"
@@ -243,7 +243,7 @@
          style="font-size:45px"
          x="1087.4292"
          y="2004.959"
-         id="tspan4223">¡Y no merefiero a una lección </tspan><tspan
+         id="tspan4223">¡Y no me refiero a una lección </tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="1079.519"
@@ -260,12 +260,12 @@
          style="font-size:45px"
          x="537.3103"
          y="2674.6978"
-         id="tspan4292-8">Tomilla,</tspan><tspan
+         id="tspan4292-8">Tomilla...</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="537.3103"
          y="2730.9478"
-         id="tspan4349">espera...</tspan></text>
+         id="tspan4349">espera.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"

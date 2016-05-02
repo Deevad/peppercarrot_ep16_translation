@@ -206,8 +206,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.40000001"
-     inkscape:cx="1166.7711"
-     inkscape:cy="522.05348"
+     inkscape:cx="905.12862"
+     inkscape:cy="1460.3621"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -218,13 +218,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/rjq/Arts and Craft/2015/Translation P&amp;C/GIT/peppercarrot_ep16_translation/mx/../gfx_Pepper-and-Carrot_by-David-Revoy_E16P06.png"
+       sodipodi:absref="/home/rjq/Arts and Craft/Translation P&amp;C/GIT/peppercarrot_ep16_translation/mx/../gfx_Pepper-and-Carrot_by-David-Revoy_E16P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E16P06.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -346,7 +346,7 @@
          id="tspan4582"
          x="787.65729"
          y="1584.5073"
-         style="font-size:70px;fill:#ffffff;stroke:none">¡Plouf<tspan
+         style="font-size:70px;fill:#ffffff;stroke:none">¡Plous<tspan
    style="font-size:80.40014648px;stroke:none"
    id="tspan4617">!</tspan></tspan></text>
     <text
@@ -370,7 +370,7 @@
          style="font-size:45px"
          x="405.84961"
          y="1837.0811"
-         id="tspan4216">atacar a todo lo que ven!</tspan></text>
+         id="tspan4216">atacar todo lo que ven!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.80389404px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -382,7 +382,7 @@
          style="font-size:36.0129776px"
          x="2124.3184"
          y="2287.5085"
-         id="tspan4361">Pero, ¡¿ que</tspan><tspan
+         id="tspan4361">Pero... ¡¿ que</tspan><tspan
          sodipodi:role="line"
          style="font-size:36.0129776px"
          x="2124.3184"
@@ -392,7 +392,7 @@
          style="font-size:36.0129776px"
          x="2124.3184"
          y="2377.541"
-         id="tspan4255">son éstas!</tspan></text>
+         id="tspan4255">son éstas?!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.72782516px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.85500004;fill:#000000;fill-opacity:1;stroke:none"
