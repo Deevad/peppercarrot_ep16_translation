@@ -44,7 +44,7 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.46"
-     inkscape:cx="1209.2684"
+     inkscape:cx="934.2684"
      inkscape:cy="2535.7287"
      inkscape:window-x="1920"
      inkscape:window-y="0"
@@ -56,13 +56,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E16P02.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep16_The-Sage-of-the-Mountain/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E16P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E16P02.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -223,7 +223,7 @@
          style="font-size:45px"
          x="1775.4443"
          y="1239.8634"
-         id="tspan4261-5-3">J'apprends rien avec mes maraines,</tspan><tspan
+         id="tspan4261-5-3">J'apprends rien avec mes marraines,</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="1775.4443"

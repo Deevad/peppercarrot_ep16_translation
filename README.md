@@ -12,6 +12,9 @@ License
 [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## Translators and correctors:
+
+* Catalan: Juan José Segura
+
 * Chinese: Ran Zhuang
 
 * Dutch: Willem Sonke & Midgard
@@ -22,7 +25,7 @@ License
 
 * Indonesian: Bonaventura Aditya Perdana
 
-* Italian: Carlo Gandolfi, Antonio Parisi
+* Italian: Carlo Gandolfi, corrections: Antonio Parisi
 
 * Japanese: guruguru
 
@@ -33,6 +36,10 @@ License
 * Portuguese: Alexandre Esteves Almeida
 
 * Russian: Denis "uncle Night" Prisukhin
+
+* Slovak: talime
+
+* Spanish: TheFaico
 
 * Swedish: Mikael Olofsson
 

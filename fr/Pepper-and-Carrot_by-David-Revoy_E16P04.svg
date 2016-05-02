@@ -43,9 +43,9 @@
      inkscape:window-height="1033"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.30245748"
-     inkscape:cx="1020.4596"
-     inkscape:cy="2128.3353"
+     inkscape:zoom="0.80454291"
+     inkscape:cx="647.00793"
+     inkscape:cy="1372.4948"
      inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -56,13 +56,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E16P04.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep16_The-Sage-of-the-Mountain/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E16P04.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E16P04.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -343,7 +343,7 @@
          style="font-size:45px"
          x="691.08716"
          y="2570.8796"
-         id="tspan4255-9">conaissance avec</tspan><tspan
+         id="tspan4255-9">connaissance avec</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="691.08716"

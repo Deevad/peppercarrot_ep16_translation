@@ -205,26 +205,26 @@
      inkscape:window-height="716"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.47584683"
-     inkscape:cx="1198.5039"
-     inkscape:cy="1293.687"
+     inkscape:zoom="0.83225908"
+     inkscape:cx="1238.6872"
+     inkscape:cy="156.17146"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
+     inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="D:\GitHub\peppercarrot_ep16_translation\cn\..\gfx_Pepper-and-Carrot_by-David-Revoy_E16P06.png"
-       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E16P06.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/cn/..\gfx_Pepper-and-Carrot_by-David-Revoy_E16P06.png"
+       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E16P06.png"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -397,7 +397,7 @@
          x="1240.6475"
          y="3381.4036"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.75px;font-family:'WenQuanYi Micro Hei';-inkscape-font-specification:'WenQuanYi Micro Hei';fill:#000000"
-         id="tspan4169">版权：Creative Commons Attribution 4.0。使用软件：Krita, Ubuntu环境下Inkscape</tspan></text>
+         id="tspan4169">版权：Creative Commons Attribution 4.0。使用软件：Krita, Ubuntu环境下Inkscape, Blender, Inkscape</tspan></text>
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.75px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;opacity:0.85500004;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:accumulate"

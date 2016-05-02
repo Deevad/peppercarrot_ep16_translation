@@ -111,19 +111,6 @@
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter5236-4-16-8-0"
-       x="-0.0089085409"
-       width="1.0178171"
-       y="-0.027928527"
-       height="1.0558571">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.49168068"
-         id="feGaussianBlur5238-0-4-7-7" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
        id="filter5236-4-6"
        x="-0.0089085409"
        width="1.0178171"
@@ -161,9 +148,9 @@
      inkscape:window-height="1155"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.27091065"
-     inkscape:cx="1240.5"
-     inkscape:cy="1751.5"
+     inkscape:zoom="0.82872187"
+     inkscape:cx="1048.5601"
+     inkscape:cy="1239.9818"
      inkscape:window-x="32"
      inkscape:window-y="39"
      inkscape:window-maximized="0"
@@ -298,19 +285,6 @@
          id="tspan4293-1-6-3-5-0-2-6-9">13</tspan></text>
     <text
        sodipodi:linespacing="125%"
-       id="text4178-6-5-9-0-7-0-4-2-22"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.76241112px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.601;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter5236-4-16-8-0);"
-       xml:space="preserve"
-       y="3129.8394"
-       x="1318.7137"
-       transform="matrix(0.57056707,-0.00137851,-0.20641725,0.71364546,400.44761,212.30316)"><tspan
-         y="3129.8394"
-         x="1318.7137"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.67671585px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#ffffff;fill-opacity:1;"
-         sodipodi:role="line"
-         id="tspan4293-1-6-3-5-0-2-6-4">17</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
        id="text4178-6-5-9-0-7-0-6"
        style="font-size:9.76241112px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.79000005;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter5236-4-6);font-family:Lavi;-inkscape-font-specification:Lavi"
        xml:space="preserve"
@@ -339,7 +313,7 @@
          x="1318.7137"
          style="font-size:40.67671585px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Fondamento;-inkscape-font-specification:Fondamento"
          sodipodi:role="line"
-         id="tspan4293-1-6-3-5-0-6">Hairdresser</tspan></text>
+         id="tspan4293-1-6-3-5-0-6">Coiffeur</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:38.7393074px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;color:#000000;fill:#e69d76;fill-opacity:1;fill-rule:nonzero;stroke:#e99f77;stroke-width:2.9397769;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Arial;-inkscape-font-specification:Arial"
