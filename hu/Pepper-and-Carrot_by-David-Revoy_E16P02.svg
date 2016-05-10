@@ -43,13 +43,13 @@
      inkscape:window-height="745"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.46"
-     inkscape:cx="1315.2763"
-     inkscape:cy="709.64171"
+     inkscape:zoom="0.32526912"
+     inkscape:cx="1052.3651"
+     inkscape:cy="661.13025"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer3" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -58,11 +58,11 @@
     <image
        sodipodi:absref="E:\Projects\Pepper&amp;Carrot\peppercarrot_ep16_translation\hu\..\gfx_Pepper-and-Carrot_by-David-Revoy_E16P02.png"
        xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E16P02.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -81,7 +81,7 @@
        sodipodi:nodetypes="csssscssssssc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 1372.835,1383.8784 c -55.0274,-53.6245 -99.2716,-185.2025 -83.5494,-209.3334 15.7221,-24.131 45.0537,-33.3169 119.7338,-33.3169 74.6799,0 751.6428,-29.9733 828.288,26.3323 76.6451,56.3056 45.7531,158.6717 -21.0658,224.3615 -66.8189,65.6898 -511.2774,52.2839 -511.2774,52.2839 0,0 -247.6229,8.0436 -332.1292,-60.3274 z"
+       d="m 1372.835,1382.0622 c -55.0274,-55.2094 -99.2716,-190.6761 -83.5494,-215.5201 15.7221,-24.8442 45.0537,-34.3016 119.7338,-34.3016 74.6799,0 751.6428,-30.8591 828.288,27.1106 76.6451,57.9696 45.7531,163.3611 -21.0658,230.9923 -66.8189,67.6312 -511.2774,53.8291 -511.2774,53.8291 0,0 -247.6229,8.2813 -332.1292,-62.1103 z"
        id="path3992"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssscc" />
@@ -98,7 +98,7 @@
        inkscape:connector-curvature="0" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="M 177.96119,197.48784 C 182.94267,122.88885 230.74676,78.680011 462.09939,81.754231 653.33686,84.295391 746.84402,103.73769 737.9927,199.64957 725.70604,332.78635 563.95115,310.59438 450.63745,318.43093 376.20594,316.65876 180.36075,333.49284 177.96119,197.48784 Z"
+       d="m 224.56989,215.81291 c 4.40196,-65.01224 46.64482,-103.53978 251.08333,-100.86063 168.9901,2.2146 251.61922,19.15836 243.79761,102.74455 -10.85731,116.02731 -153.79464,96.68724 -253.92614,103.51671 -65.77261,-1.54443 -238.83439,13.1263 -240.9548,-105.40063 z"
        id="path4546"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csscc" />
@@ -122,7 +122,7 @@
        sodipodi:nodetypes="cccccccccccccsscccccccccccccccccccccccccccccccccccccccccc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 911.57297,2905.1862 c 26.15941,-35.2543 82.16095,-65.5675 156.19513,-78.8643 74.0341,-13.2967 211.5557,-12.838 235.7905,-9.3658 24.2346,3.4721 157.3586,15.071 186.5886,34.2365 29.2299,19.1652 68.7814,42.8654 77.7025,67.9563 8.9214,25.0909 2.8452,86.0066 -23.7889,99.9521 -26.6342,13.9453 -148.5752,45.553 -220.0518,48.5351 -71.4766,2.9823 -237.9994,-6.3821 -285.5577,-14.1337 -47.55828,-7.7516 -97.95553,-17.8163 -113.43039,-45.1473 -15.47501,-27.331 -44.14549,-63.0881 -13.44794,-103.1689 z"
+       d="m 899.05647,2908.9299 c 27.1723,-31.6238 85.34223,-58.8155 162.24303,-70.743 76.9007,-11.9274 219.7472,-11.516 244.9203,-8.4013 25.173,3.1145 163.4516,13.519 193.8134,30.7109 30.3616,17.1916 71.4446,38.4512 80.7111,60.9583 9.2668,22.5071 2.9554,77.1498 -24.71,89.6592 -27.6655,12.5093 -154.3281,40.8621 -228.5722,43.5371 -74.2442,2.6752 -247.2148,-5.7249 -296.6146,-12.6782 -49.3997,-6.9534 -101.74834,-15.9817 -117.82239,-40.4982 -16.0742,-24.5165 -45.8548,-56.5914 -13.96864,-92.5448 z"
        id="path3533"
        inkscape:connector-curvature="0" />
     <path
@@ -172,19 +172,19 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="459.47992"
-       y="188.86148"
+       x="473.47992"
+       y="206.86148"
        id="text4246-42"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="459.47992"
-         y="188.86148"
+         x="473.47992"
+         y="206.86148"
          id="tspan3442">Ezt saját magadnak</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="459.47992"
-         y="245.11148"
+         x="473.47992"
+         y="263.11148"
          id="tspan3390">kell elintézned.</tspan></text>
     <text
        xml:space="preserve"
@@ -219,7 +219,7 @@
          style="font-size:45px"
          x="1773.4443"
          y="1189.8634"
-         id="tspan3457">A keresztmamáimtól semmit nem tanulok.</tspan><tspan
+         id="tspan3457">A keresztmamáimtól semmit sem tanulok.</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="1773.4443"
@@ -280,12 +280,12 @@
          style="font-size:45px"
          x="295.21371"
          y="2422.6238"
-         id="tspan4434">Beszélj velük</tspan><tspan
+         id="tspan3428">Mondd meg nekik</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="295.21371"
          y="2478.8738"
-         id="tspan3428">szemtől szemben,</tspan><tspan
+         id="tspan3386">a véleményedet,</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="295.21371"
@@ -329,11 +329,11 @@
          style="font-size:45px"
          x="1241.7258"
          y="2951.7886"
-         id="tspan3434">Elkísérlek, és akár beszélhetek</tspan><tspan
+         id="tspan3434">Ha nagyon szeretnéd, elkísérlek,</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="1241.7258"
          y="3008.0386"
-         id="tspan3533">is velük egy keveset...</tspan></text>
+         id="tspan3533">és beszélek velük...</tspan></text>
   </g>
 </svg>
