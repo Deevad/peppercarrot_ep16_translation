@@ -49,6 +49,8 @@ License
 
 * Ukrainian: Denis "uncle Night" Prisukhin
 
+* German: Philipp Hemmer
+
 
 ## Artwork:
 
