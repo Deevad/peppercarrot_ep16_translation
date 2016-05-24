@@ -163,7 +163,7 @@
      showgrid="false"
      inkscape:zoom="0.56568545"
      inkscape:cx="1569.2995"
-     inkscape:cy="997.00715"
+     inkscape:cy="1491.9819"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -176,11 +176,11 @@
     <image
        sodipodi:absref="C:\work\git\peppercarrot_ep16_translation\de\..\gfx_Pepper-and-Carrot_by-David-Revoy_E16P01.png"
        xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E16P01.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -222,14 +222,14 @@
     <text
        sodipodi:linespacing="125%"
        id="text4178-6-5-9-0-7"
-       style="font-size:9.76241112px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter5236);font-family:Lavi;-inkscape-font-specification:Lavi"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.76241112px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter5236)"
        xml:space="preserve"
        y="3129.8394"
        x="1318.7137"
-       transform="matrix(1.1793167,0.15891164,-0.64834239,1.164866,1618.4381,-1719.3999)"><tspan
+       transform="matrix(1.1793167,0.15891164,-0.64834239,1.164866,1630.4381,-1717.3999)"><tspan
          y="3129.8394"
          x="1318.7137"
-         style="font-size:28.80121803px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Fondamento;-inkscape-font-specification:Fondamento"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.80121803px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#ffffff;fill-opacity:1"
          sodipodi:role="line"
          id="tspan4293-1-6-3-5">Saffron</tspan></text>
     <text
@@ -265,7 +265,7 @@
        xml:space="preserve"
        y="3129.8394"
        x="1318.7137"
-       transform="matrix(0.69640517,0.04333294,-0.30841015,0.85135761,227.88371,-344.75539)"><tspan
+       transform="matrix(0.69640517,0.04333294,-0.30841015,0.85135761,227.88371,-350.75539)"><tspan
          y="3129.8394"
          x="1318.7137"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.67671585px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#ffffff;fill-opacity:1"
@@ -317,12 +317,17 @@
        xml:space="preserve"
        y="3129.8394"
        x="1318.7137"
-       transform="matrix(0.5440293,-0.25051221,0.11317173,0.76897752,1162.4312,-329.06558)"><tspan
+       transform="matrix(0.5440293,-0.25051221,0.11317173,0.76897752,1155.3602,-360.88538)"><tspan
          y="3129.8394"
          x="1318.7137"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.67671585px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#ffffff;fill-opacity:1"
          sodipodi:role="line"
-         id="tspan3033">Sternenstr.</tspan></text>
+         id="tspan3033">Stern-</tspan><tspan
+         y="3180.6853"
+         x="1318.7137"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.67671585px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#ffffff;fill-opacity:1"
+         sodipodi:role="line"
+         id="tspan3381">str.</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4178-6-5-9-0-7-0-7"
