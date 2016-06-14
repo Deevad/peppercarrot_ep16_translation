@@ -149,8 +149,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.36984714"
-     inkscape:cx="1458.9899"
-     inkscape:cy="616.27306"
+     inkscape:cx="1951.8138"
+     inkscape:cy="613.56924"
      inkscape:window-x="54"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -162,12 +162,12 @@
      sodipodi:insensitive="true">
     <image
        sodipodi:absref="F:\peppercarrot_ep16_translation\jb\..\gfx_Pepper-and-Carrot_by-David-Revoy_E16P01.png"
-       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E16P01.png"
-       y="0"
-       x="0"
-       id="image10"
+       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E16P01.png"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -199,7 +199,7 @@
          style="font-size:45px"
          x="2105.5322"
          y="2997.8386"
-         id="tspan4144">i'a nqi sai</tspan><tspan
+         id="tspan4144">i'a nai sai</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="2105.5322"
