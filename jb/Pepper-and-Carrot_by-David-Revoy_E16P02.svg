@@ -39,15 +39,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1151"
-     inkscape:window-height="937"
+     inkscape:window-width="1600"
+     inkscape:window-height="852"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.23"
-     inkscape:cx="117.45128"
-     inkscape:cy="1275.3837"
-     inkscape:window-x="54"
-     inkscape:window-y="-8"
+     inkscape:zoom="0.32526912"
+     inkscape:cx="1310.3097"
+     inkscape:cy="977.98095"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -56,13 +56,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="F:\peppercarrot_ep16_translation\jb\..\gfx_Pepper-and-Carrot_by-David-Revoy_E16P02.png"
+       sodipodi:absref="/mnt/bitcoin/peppercarrot_ep16_translation/jb/../gfx_Pepper-and-Carrot_by-David-Revoy_E16P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E16P02.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -216,30 +216,30 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="1789.4443"
+       x="1807.4443"
        y="1233.8634"
        id="text4246-4-3-5"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="1789.4443"
+         x="1807.4443"
          y="1233.8634"
          id="tspan4322">i mi ca'a cilre no da poi lo kurji rirni mi ctuca</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="1789.4443"
+         x="1807.4443"
          y="1290.1134"
-         id="tspan3484">i ro se zukte be kurji bu cu zvati lo zdani be mi</tspan><tspan
+         id="tspan3484">i ro se zukte be kurji bu cu ka zvati lo zdani be mi</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="1789.4443"
+         x="1807.4443"
          y="1346.3634"
-         id="tspan3476">gi'a casnu lo noi ca'o se cortu vau bongu</tspan><tspan
+         id="tspan3476">kei ja ka casnu lo noi ca'o se cortu vau bongu</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="1789.4443"
+         x="1807.4443"
          y="1402.6134"
-         id="tspan3486">gi'a pante ro se zukte be mi</tspan></text>
+         id="tspan3486">kei ja ka pante ro se zukte be mi</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -283,7 +283,7 @@
          style="font-size:45px"
          x="301.6976"
          y="2553.5493"
-         id="tspan4438">i do makcu nixli</tspan></text>
+         id="tspan4438">i do makcu</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
