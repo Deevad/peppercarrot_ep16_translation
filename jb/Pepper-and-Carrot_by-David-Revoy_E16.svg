@@ -166,15 +166,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1151"
-     inkscape:window-height="937"
+     inkscape:window-width="1600"
+     inkscape:window-height="852"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.68340433"
      inkscape:cx="816.97528"
      inkscape:cy="393.39251"
-     inkscape:window-x="54"
-     inkscape:window-y="-8"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer2" />
   <g
@@ -183,13 +183,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true" />
   <image
-     sodipodi:absref="F:\peppercarrot_ep16_translation\jb\..\gfx_Pepper-and-Carrot_by-David-Revoy_E16.png"
+     sodipodi:absref="/mnt/bitcoin/peppercarrot_ep16_translation/jb/../gfx_Pepper-and-Carrot_by-David-Revoy_E16.png"
      xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E16.png"
-     width="1100"
-     height="765"
-     id="image10"
+     y="0"
      x="0"
-     y="0" />
+     id="image10"
+     height="765"
+     width="1100" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -205,6 +205,6 @@
          id="tspan4185"
          x="550.00098"
          y="736.31476"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle">i 16 moi pagbu fa lu prije bu'u lo cmana li'u</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle">i 16 moi fa la'e lu prije bu'u lo cmana li'u</tspan></text>
   </g>
 </svg>

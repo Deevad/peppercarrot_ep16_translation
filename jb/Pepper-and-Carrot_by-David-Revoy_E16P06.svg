@@ -201,15 +201,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1151"
-     inkscape:window-height="937"
+     inkscape:window-width="1600"
+     inkscape:window-height="852"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.40000001"
-     inkscape:cx="852.32806"
-     inkscape:cy="496.85337"
-     inkscape:window-x="54"
-     inkscape:window-y="-8"
+     inkscape:zoom="0.28284272"
+     inkscape:cx="1053.3331"
+     inkscape:cy="2332.8867"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -218,13 +218,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="F:\peppercarrot_ep16_translation\jb\..\gfx_Pepper-and-Carrot_by-David-Revoy_E16P06.png"
+       sodipodi:absref="/mnt/bitcoin/peppercarrot_ep16_translation/jb/../gfx_Pepper-and-Carrot_by-David-Revoy_E16P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E16P06.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -333,7 +333,7 @@
          id="tspan4182-2"
          x="1883.5087"
          y="576.57001"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:112.9467392px;font-family:'Drukaatie burti';-inkscape-font-specification:'Drukaatie burti'">^:i trl |fto</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:112.9467392px;font-family:'Drukaatie burti';-inkscape-font-specification:'Drukaatie burti'">^:i -trl |fto</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80657005px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99236238;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9)"
@@ -458,7 +458,7 @@
          style="font-size:45px"
          x="727.25122"
          y="2232.5923"
-         id="tspan3641">i ji'a nu bu rinka lo nu lo jancu</tspan><tspan
+         id="tspan3641">i ji'a nu bu rinka lo nu lo janco</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="727.25122"
@@ -490,22 +490,11 @@
          style="font-size:45px"
          x="505.7041"
          y="1924.2856"
-         id="tspan4346">i prije bu ctuca do </tspan><tspan
+         id="tspan4346">i lo prije do ka'ectu </tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="497.79395"
          y="1980.5356"
          id="tspan4216">lo ka simsa ri lo ka tarti</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="2762.5"
-       y="2540.5"
-       id="text3656"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3658"
-         x="2762.5"
-         y="2540.5">œ</tspan></text>
   </g>
 </svg>
