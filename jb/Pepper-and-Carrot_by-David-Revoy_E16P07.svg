@@ -51,15 +51,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1151"
-     inkscape:window-height="937"
+     inkscape:window-width="1600"
+     inkscape:window-height="852"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.27826088"
-     inkscape:cx="1822.7344"
-     inkscape:cy="3363.6618"
-     inkscape:window-x="54"
-     inkscape:window-y="-8"
+     inkscape:cx="1452.5782"
+     inkscape:cy="1771.6306"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer2"
      inkscape:object-nodes="true"
@@ -78,15 +78,15 @@
      transform="translate(0,1024)"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="F:\peppercarrot_ep16_translation\jb\..\gfx_Pepper-and-Carrot_by-David-Revoy_E16P07.png"
+       sodipodi:absref="/mnt/bitcoin/peppercarrot_ep16_translation/jb/../gfx_Pepper-and-Carrot_by-David-Revoy_E16P07.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E16P07.png"
-       y="-1023.3771"
-       x="0.54707891"
-       id="image4223"
-       style="image-rendering:optimizeQuality"
-       preserveAspectRatio="none"
+       width="2481.4438"
        height="4504.5391"
-       width="2481.4438" />
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image4223"
+       x="0.54707891"
+       y="-1023.3771" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -120,20 +120,15 @@
        id="text4162"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan4164"
          x="1239.9247"
          y="-773.15283"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#483e37">i la'e lu la piper jo'u la karot li'u se jdima no da</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#483e37"
+         id="tspan4166">i la'e lu la piper jo'u la karot li'u fingubni</tspan><tspan
          sodipodi:role="line"
          x="1239.9247"
          y="-723.15283"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#483e37"
-         id="tspan3380">i lo cupra cartu be la'e bu cu gubni</tspan><tspan
-         sodipodi:role="line"
-         x="1239.9247"
-         y="-673.15283"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#483e37"
-         id="tspan4166">gi'e se sarji 671 se selfu prenu pe la'e di'e</tspan></text>
+         id="tspan3353">i sarji lo nu finti kei fa lo 671 se selfu prenu pe la'e di'e</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.29317284px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:0.85500004;fill:#483e37;fill-opacity:1;stroke:none"

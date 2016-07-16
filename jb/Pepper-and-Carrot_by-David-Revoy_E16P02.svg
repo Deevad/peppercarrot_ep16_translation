@@ -44,8 +44,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.32526912"
-     inkscape:cx="1310.3097"
-     inkscape:cy="977.98095"
+     inkscape:cx="1322.6072"
+     inkscape:cy="744.32827"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -58,11 +58,11 @@
     <image
        sodipodi:absref="/mnt/bitcoin/peppercarrot_ep16_translation/jb/../gfx_Pepper-and-Carrot_by-David-Revoy_E16P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E16P02.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -153,12 +153,12 @@
          style="font-size:45px"
          x="812.651"
          y="359.28253"
-         id="tspan4326">i sei mi stace mi na djica</tspan><tspan
+         id="tspan4326">i sei mi stace mi djica</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="812.651"
          y="415.53253"
-         id="tspan3611">lo nu mi krati do i ju do mi</tspan><tspan
+         id="tspan3611">lo nu mi na krati do i ju do mi</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="812.651"
@@ -300,7 +300,7 @@
          style="font-size:45px"
          x="321.21371"
          y="2476.8738"
-         id="tspan3677">be do kurji bu</tspan></text>
+         id="tspan3677">be do le kurji</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -322,7 +322,7 @@
          style="font-size:45px"
          x="2014.6814"
          y="1597.5845"
-         id="tspan3663">kurji bu le nabmi</tspan></text>
+         id="tspan3663">le kurji le nabmi</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -344,6 +344,6 @@
          style="font-size:45px"
          x="1241.7258"
          y="3008.0386"
-         id="tspan3691">e lo ka tavla kurji bu</tspan></text>
+         id="tspan3691">e lo ka tavla le kurji</tspan></text>
   </g>
 </svg>
