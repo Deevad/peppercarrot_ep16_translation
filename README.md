@@ -25,6 +25,8 @@ License
 
 * French: David Revoy, corrections: Remi Rampin
 
+* Greek: George Karettas
+
 * Hungarian: Halász Gábor "Hali"
 
 * Indonesian: Bonaventura Aditya Perdana
