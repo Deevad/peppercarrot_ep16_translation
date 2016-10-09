@@ -17,6 +17,8 @@ License
 
 * Chinese: Ran Zhuang
 
+* Czech: Kateřina Fleknová
+
 * Dutch: Willem Sonke & Midgard
 
 * English: Alex Gryson
