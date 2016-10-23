@@ -23,6 +23,8 @@ License
 
 * English: Alex Gryson
 
+* Esperanto: Naj Ledofiŝ
+
 * Finnish: Kari Lehto
 
 * French: David Revoy, corrections: Remi Rampin
