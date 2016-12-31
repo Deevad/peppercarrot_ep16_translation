@@ -205,9 +205,9 @@
      inkscape:window-height="752"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.56568544"
-     inkscape:cx="1243.863"
-     inkscape:cy="1084.186"
+     inkscape:zoom="0.40000001"
+     inkscape:cx="1528.8009"
+     inkscape:cy="3087.8285"
      inkscape:window-x="10"
      inkscape:window-y="5"
      inkscape:window-maximized="0"
@@ -220,11 +220,11 @@
     <image
        sodipodi:absref="/Users/su_huynh/Downloads/peppercarrot_ep16_translation-master/vi/../gfx_Pepper-and-Carrot_by-David-Revoy_E16P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E16P06.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -336,19 +336,19 @@
          style="font-size:50.4467392px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Drukaatie burti;-inkscape-font-specification:Drukaatie burti">BRASERÔ INTENSIA !</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80657005px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99236238;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4375-4-1-1-1-9)"
+       style="font-size:17.80657005px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter4375-4-1-1-1-9);font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
        x="787.65729"
        y="1584.5073"
        id="text4580"
        sodipodi:linespacing="125%"
-       transform="matrix(1.1015253,-0.87314706,0.0870639,1.7091559,1054.2092,-513.95448)"><tspan
+       transform="matrix(1.429494,-1.1331183,0.11298635,2.2180408,762.83358,-1127.3247)"><tspan
          sodipodi:role="line"
          id="tspan4582"
          x="787.65729"
          y="1584.5073"
-         style="font-size:70px;fill:#ffffff;stroke:none"><tspan
-           style="font-size:80.40014648px;stroke:none"
-           id="tspan4617">Splash!</tspan></tspan></text>
+         style="font-size:70px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#ffffff;stroke:none;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"><tspan
+           style="font-size:80.40014648px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;stroke:none;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
+           id="tspan4617">Chá!</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
@@ -501,16 +501,5 @@
          x="511.79395"
          y="1978.5356"
          id="tspan12191">Nhân là bắt chước ông ấy!</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="2762.5"
-       y="2540.5"
-       id="text3656"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3658"
-         x="2762.5"
-         y="2540.5">œ</tspan></text>
   </g>
 </svg>
