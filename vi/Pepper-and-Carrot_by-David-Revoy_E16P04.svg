@@ -45,9 +45,9 @@
      showgrid="false"
      inkscape:zoom="0.42773947"
      inkscape:cx="1005.419"
-     inkscape:cy="741.55191"
-     inkscape:window-x="40"
-     inkscape:window-y="97"
+     inkscape:cy="3001.6229"
+     inkscape:window-x="-10"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer3" />
   <g
@@ -58,11 +58,11 @@
     <image
        sodipodi:absref="/Users/su_huynh/Downloads/peppercarrot_ep16_translation-master/vi/../gfx_Pepper-and-Carrot_by-David-Revoy_E16P04.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E16P04.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -158,8 +158,8 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="zsssssz" />
     <path
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 503.73633,579.84113 c 32.14108,-24.99351 310.40171,-40.10316 384.10554,0.97204 61.51959,34.2849 37.5167,119.66652 -17.1952,139.33257 -54.71172,19.66611 -236.71778,17.38347 -316.48691,8.46738 -75.95118,-8.48937 -88.70467,-34.11348 -92.44063,-85.70747 -1.52478,-21.05751 9.87596,-38.07093 42.0172,-63.06452 z"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 507.32994,579.84113 c 33.10221,-24.99351 319.68382,-40.10316 395.59165,0.97204 63.35924,34.2849 38.63858,119.66652 -17.70939,139.33257 -56.34779,19.66611 -243.79649,17.38347 -325.95099,8.46738 -78.2224,-8.48937 -91.35726,-34.11348 -95.20494,-85.70747 -1.57038,-21.05751 10.17129,-38.07093 43.27367,-63.06452 z"
        id="path4040-4-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="zssssz" />
@@ -259,7 +259,7 @@
          style="font-size:45px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
          x="535.57526"
          y="1824.1853"
-         id="tspan3597">Trẻ quá để</tspan><tspan
+         id="tspan3597">Trẻ qúa để</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
          x="535.57526"
@@ -420,14 +420,14 @@
        id="text4246-9-9"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         style="font-size:45px;-inkscape-font-specification:'Rounded M+ 1c Medium';font-family:'Rounded M+ 1c';font-weight:500;font-style:normal;font-stretch:normal;font-variant:normal"
+         style="font-size:45px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
          x="698.46021"
          y="636.0462"
-         id="tspan4506">His counsel</tspan><tspan
+         id="tspan3584">Lời dẫn của ông ấy</tspan><tspan
          sodipodi:role="line"
-         style="font-size:45px;-inkscape-font-specification:'Rounded M+ 1c Medium';font-family:'Rounded M+ 1c';font-weight:500;font-style:normal;font-stretch:normal;font-variant:normal"
+         style="font-size:45px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
          x="698.46021"
          y="692.2962"
-         id="tspan3584">will be vital...</tspan></text>
+         id="tspan15937">sẽ rất quan trọng...</tspan></text>
   </g>
 </svg>
