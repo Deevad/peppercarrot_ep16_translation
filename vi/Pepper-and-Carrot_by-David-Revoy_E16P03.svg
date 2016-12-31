@@ -99,10 +99,10 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.4946937"
-     inkscape:cx="1216.2797"
-     inkscape:cy="3185.6766"
-     inkscape:window-x="50"
-     inkscape:window-y="49"
+     inkscape:cx="1071.5548"
+     inkscape:cy="3018.1815"
+     inkscape:window-x="52"
+     inkscape:window-y="3"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <g
@@ -113,11 +113,11 @@
     <image
        sodipodi:absref="/Users/su_huynh/Downloads/peppercarrot_ep16_translation-master/vi/../gfx_Pepper-and-Carrot_by-David-Revoy_E16P03.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E16P03.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -194,7 +194,7 @@
          style="font-size:45px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
          x="1268.6267"
          y="348.75793"
-         id="tspan12067">có ý nghĩa gì đãy</tspan></text>
+         id="tspan12067">có ý nghĩa gì đây!!!</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
@@ -255,7 +255,7 @@
          style="font-size:45px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
          x="537.3103"
          y="2730.9478"
-         id="tspan4349">Bình tĩnh</tspan></text>
+         id="tspan4349">bình tĩnh</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
@@ -270,17 +270,17 @@
          id="tspan4292-6">Họ nói đúng...</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:8.20311545999999936px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.41015576999999998;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
+       style="font-size:8.20311546px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.41015577;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
        x="764.05621"
        y="923.35193"
        id="text4246-8"
        sodipodi:linespacing="125%"
        transform="matrix(0.89618362,-0.24886542,0.02679547,1.1084018,0,0)"><tspan
          sodipodi:role="line"
-         style="font-size:30.76168059999999826px;fill:#ffffff;stroke:#ffffff;stroke-width:0.41015576999999998;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;-inkscape-font-specification:'Rounded M+ 1c Medium';font-family:'Rounded M+ 1c';font-weight:500;font-style:normal;font-stretch:normal;font-variant:normal"
+         style="font-size:30.7616806px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#ffffff;stroke:#ffffff;stroke-width:0.41015577;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
          x="764.05621"
          y="923.35193"
-         id="tspan4150-8">chít</tspan></text>
+         id="tspan4150-8">chíc</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:8.20311546px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.41015577;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Lavi;-inkscape-font-specification:Lavi"
@@ -293,7 +293,7 @@
          style="font-size:30.7616806px;fill:#ffffff;stroke:#ffffff;stroke-width:0.41015577;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          x="543.87469"
          y="837.68304"
-         id="tspan4150-8-7">chít</tspan></text>
+         id="tspan4150-8-7">chíc</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:8.20311546px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.41015577;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
@@ -306,20 +306,20 @@
          style="font-size:30.7616806px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#ffffff;stroke:#ffffff;stroke-width:0.41015577;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
          x="334.54736"
          y="936.29169"
-         id="tspan4150-8-71">chít</tspan></text>
+         id="tspan4150-8-71">chíc</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:8.20311545999999936px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.41015576999999998;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
+       style="font-size:8.20311546px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.41015577;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
        x="87.779213"
        y="987.71484"
        id="text4246-8-7"
        sodipodi:linespacing="125%"
        transform="matrix(0.73686042,-0.56755246,0.44156597,1.0170015,0,0)"><tspan
          sodipodi:role="line"
-         style="font-size:30.76168059999999826px;fill:#ffffff;stroke:#ffffff;stroke-width:0.41015576999999998;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;-inkscape-font-specification:'Rounded M+ 1c Medium';font-family:'Rounded M+ 1c';font-weight:500;font-style:normal;font-stretch:normal;font-variant:normal"
+         style="font-size:30.7616806px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#ffffff;stroke:#ffffff;stroke-width:0.41015577;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
          x="87.779213"
          y="987.71484"
-         id="tspan4150-8-79">chít</tspan></text>
+         id="tspan4150-8-79">chíc</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:8.20311546px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.41015577;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
@@ -332,7 +332,7 @@
          style="font-size:30.7616806px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#ffffff;stroke:#ffffff;stroke-width:0.41015577;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
          x="336.62546"
          y="1084.5326"
-         id="tspan4150-8-2">chít</tspan></text>
+         id="tspan4150-8-2">chíc</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:8.20311546px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.41015577;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
@@ -345,33 +345,33 @@
          style="font-size:30.7616806px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#ffffff;stroke:#ffffff;stroke-width:0.41015577;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
          x="552.94135"
          y="1012.8113"
-         id="tspan4150-8-79-8">chít</tspan></text>
+         id="tspan4150-8-79-8">chíc</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:8.20311545999999936px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.41015576999999998;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
+       style="font-size:8.20311546px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.41015577;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
        x="156.05554"
        y="847.95422"
        id="text4246-8-7-4"
        sodipodi:linespacing="125%"
        transform="matrix(0.73686042,-0.56755246,0.44156597,1.0170015,0,0)"><tspan
          sodipodi:role="line"
-         style="font-size:30.76168059999999826px;fill:#ffffff;stroke:#ffffff;stroke-width:0.41015576999999998;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;-inkscape-font-specification:'Rounded M+ 1c Medium';font-family:'Rounded M+ 1c';font-weight:500;font-style:normal;font-stretch:normal;font-variant:normal"
+         style="font-size:30.7616806px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#ffffff;stroke:#ffffff;stroke-width:0.41015577;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
          x="156.05554"
          y="847.95422"
-         id="tspan4150-8-79-5">chít</tspan></text>
+         id="tspan4150-8-79-5">chíc</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:8.20311545999999936px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.41015576999999998;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
+       style="font-size:8.20311546px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.41015577;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
        x="358.29056"
        y="983.72534"
        id="text4246-8-7-6"
        sodipodi:linespacing="125%"
        transform="matrix(0.73686042,-0.56755246,0.44156597,1.0170015,0,0)"><tspan
          sodipodi:role="line"
-         style="font-size:30.76168059999999826px;fill:#ffffff;stroke:#ffffff;stroke-width:0.41015576999999998;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;-inkscape-font-specification:'Rounded M+ 1c Medium';font-family:'Rounded M+ 1c';font-weight:500;font-style:normal;font-stretch:normal;font-variant:normal"
+         style="font-size:30.7616806px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#ffffff;stroke:#ffffff;stroke-width:0.41015577;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
          x="358.29056"
          y="983.72534"
-         id="tspan4150-8-79-86">chít</tspan></text>
+         id="tspan4150-8-79-86">chíc</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:8.20311546px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.41015577;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
@@ -384,7 +384,7 @@
          style="font-size:30.7616806px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#ffffff;stroke:#ffffff;stroke-width:0.41015577;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
          x="-93.625549"
          y="854.11603"
-         id="tspan4150-8-79-2">chít</tspan></text>
+         id="tspan4150-8-79-2">chíc</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:8.20311546px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.41015577;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
@@ -397,7 +397,7 @@
          style="font-size:30.7616806px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#ffffff;stroke:#ffffff;stroke-width:0.41015577;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
          x="-161.61777"
          y="976.23895"
-         id="tspan4150-8-79-2-4">chít</tspan></text>
+         id="tspan4150-8-79-2-4">chíc</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:17.80657005px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.99236238;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter4375-4-1-1-1);font-family:'Rounded M+ 1c';-inkscape-font-specification:'Rounded M+ 1c Medium'"
