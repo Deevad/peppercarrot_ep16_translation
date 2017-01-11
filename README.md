@@ -25,6 +25,8 @@ License
 
 * Esperanto: Naj Ledofiŝ
 
+* Farsi: Aslan Zamanloo
+
 * Finnish: Kari Lehto
 
 * French: David Revoy, corrections: Remi Rampin
