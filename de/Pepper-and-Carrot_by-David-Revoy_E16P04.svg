@@ -39,15 +39,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-width="1440"
+     inkscape:window-height="811"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.60491496"
-     inkscape:cx="1212.794"
-     inkscape:cy="912.51305"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:zoom="0.42773947"
+     inkscape:cx="1399.8237"
+     inkscape:cy="-68.822933"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -56,13 +56,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="C:\work\git\peppercarrot_ep16_translation\de\..\gfx_Pepper-and-Carrot_by-David-Revoy_E16P04.png"
+       sodipodi:absref="C:/work/git/peppercarrot_ep16_translation/de/../gfx_Pepper-and-Carrot_by-David-Revoy_E16P04.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E16P04.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -242,12 +242,12 @@
          style="font-size:45px"
          x="1186.4185"
          y="1232.4724"
-         id="tspan3593">Sind sie nicht zu jung</tspan><tspan
+         id="tspan3593">Sind sie nicht zu jung,</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="1186.4185"
          y="1288.7224"
-         id="tspan3455">um seinen Unterricht</tspan><tspan
+         id="tspan3455">um seine Lehren</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="1186.4185"
@@ -333,7 +333,7 @@
          style="font-size:45px"
          x="709.08716"
          y="2506.6296"
-         id="tspan4251-3">Ich lasse Euch</tspan><tspan
+         id="tspan4251-3">Ihr könnt euch</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="709.08716"
@@ -355,7 +355,7 @@
          style="font-size:45px"
          x="916.37567"
          y="2708.2715"
-         id="tspan4251-3-4">Ihr finde Ihn oben</tspan><tspan
+         id="tspan4251-3-4">Ihr findet ihn oben</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="916.37567"

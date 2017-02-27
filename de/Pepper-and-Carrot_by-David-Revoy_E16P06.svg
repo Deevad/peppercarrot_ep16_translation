@@ -201,15 +201,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-width="1440"
+     inkscape:window-height="811"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.80000002"
-     inkscape:cx="1301.2468"
-     inkscape:cy="419.20394"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:zoom="0.40000001"
+     inkscape:cx="1101.2468"
+     inkscape:cy="719.20393"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -218,13 +218,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="C:\work\git\peppercarrot_ep16_translation\de\..\gfx_Pepper-and-Carrot_by-David-Revoy_E16P06.png"
+       sodipodi:absref="C:/work/git/peppercarrot_ep16_translation/de/../gfx_Pepper-and-Carrot_by-David-Revoy_E16P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E16P06.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -500,7 +500,7 @@
          style="font-size:45px"
          x="504.72287"
          y="1934.66"
-         id="tspan4346">Die Lektion des Weise</tspan><tspan
+         id="tspan4346">Die Lektion des Weisen</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="504.72287"
