@@ -39,15 +39,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1440"
-     inkscape:window-height="811"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.42773947"
-     inkscape:cx="1399.8237"
-     inkscape:cy="-68.822933"
-     inkscape:window-x="0"
-     inkscape:window-y="1"
+     inkscape:cx="1651.1449"
+     inkscape:cy="910.74531"
+     inkscape:window-x="1920"
+     inkscape:window-y="22"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -56,13 +56,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="C:/work/git/peppercarrot_ep16_translation/de/../gfx_Pepper-and-Carrot_by-David-Revoy_E16P04.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep16_The-Sage-of-the-Mountain/lang/de/../gfx_Pepper-and-Carrot_by-David-Revoy_E16P04.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E16P04.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -201,7 +201,7 @@
          style="font-size:45px"
          x="554.46271"
          y="410.25284"
-         id="tspan3580">Ich schlage ein Teffen</tspan><tspan
+         id="tspan3580">Ich schlage ein Treffen</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="554.46271"
