@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 r15371"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    width="2646.3999"
    height="3736.5334"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E16P03.svg">
@@ -94,17 +94,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1305"
-     inkscape:window-height="744"
+     inkscape:window-width="1299"
+     inkscape:window-height="713"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.40737314"
-     inkscape:cx="1232.9787"
-     inkscape:cy="445.37374"
-     inkscape:window-x="61"
-     inkscape:window-y="24"
+     inkscape:zoom="0.45192958"
+     inkscape:cx="1229.5553"
+     inkscape:cy="175.16195"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
+     inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -113,11 +113,11 @@
     <image
        sodipodi:absref="/home/emmiline/Documents/git/peppercarrot/peppercarrot_ep16_translation/da/../gfx_Pepper-and-Carrot_by-David-Revoy_E16P03.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E16P03.png"
-       width="2646.3999"
-       height="3736.5334"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3736.5334"
+       width="2646.3999" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -193,7 +193,7 @@
          style="font-size:48px;line-height:1.25;stroke-width:1.06666672"
          x="1210.3068"
          y="360.82513"
-         id="tspan136">med at du ikke</tspan><tspan
+         id="tspan136">med, at du ikke</tspan><tspan
          sodipodi:role="line"
          style="font-size:48px;line-height:1.25;stroke-width:1.06666672"
          x="1210.3068"
@@ -240,7 +240,7 @@
          style="font-size:48px;line-height:1.25;stroke-width:1.06666672"
          x="1151.4869"
          y="2138.623"
-         id="tspan102">Og ikke kun en med hekseri</tspan><tspan
+         id="tspan102">Og ikke kun én med hekseri,</tspan><tspan
          sodipodi:role="line"
          style="font-size:48px;line-height:1.25;stroke-width:1.06666672"
          x="1159.9244"

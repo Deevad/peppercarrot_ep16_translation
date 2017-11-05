@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 r15371"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    width="1173.3334"
    height="816"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E16.svg">
@@ -164,15 +164,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1305"
-     inkscape:window-height="744"
+     inkscape:window-width="1299"
+     inkscape:window-height="713"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.5870609"
-     inkscape:cx="365.57746"
-     inkscape:cy="390.46357"
-     inkscape:window-x="61"
-     inkscape:window-y="24"
+     inkscape:zoom="0.92103584"
+     inkscape:cx="591.82675"
+     inkscape:cy="105.90827"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer2" />
   <g
@@ -183,11 +183,11 @@
   <image
      sodipodi:absref="/home/emmiline/Documents/git/peppercarrot/peppercarrot_ep16_translation/da/../gfx_Pepper-and-Carrot_by-David-Revoy_E16.png"
      xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E16.png"
-     y="0"
-     x="0"
-     id="image10"
+     width="1173.3334"
      height="816"
-     width="1173.3334" />
+     id="image10"
+     x="0"
+     y="0" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -203,6 +203,6 @@
          id="tspan4185"
          x="549.87109"
          y="736.31476"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle">Episode 16: Den vise på bjerget</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle">Episode 16: Den Vise på bjerget</tspan></text>
   </g>
 </svg>
