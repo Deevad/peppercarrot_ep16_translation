@@ -201,15 +201,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1299"
-     inkscape:window-height="713"
+     inkscape:window-width="1920"
+     inkscape:window-height="1031"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.42509726"
-     inkscape:cx="1571.9093"
-     inkscape:cy="-162.10058"
-     inkscape:window-x="67"
-     inkscape:window-y="27"
+     inkscape:zoom="0.74349777"
+     inkscape:cx="1187.4355"
+     inkscape:cy="544.26667"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -218,7 +218,7 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/emmiline/Documents/git/peppercarrot/peppercarrot_ep16_translation/da/../gfx_Pepper-and-Carrot_by-David-Revoy_E16P06.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep16_The-Sage-of-the-Mountain/lang/da/../gfx_Pepper-and-Carrot_by-David-Revoy_E16P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E16P06.png"
        width="2646.3999"
        height="3736.5334"
@@ -297,7 +297,7 @@
          id="tspan4252-9-8"> </tspan></text>
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.10881007px;marker:none;enable-background:accumulate"
-       d="m 500.47339,2167.6303 c 104.38697,-87.6164 597.18821,-65.9583 650.65091,-0.1641 53.4628,65.7943 83.9811,227.0958 -8.8526,280.1559 -92.8334,53.0595 -625.36793,74.2836 -671.82684,-4.2448 -46.4588,-78.5288 -74.35858,-188.131 30.02853,-275.747 z"
+       d="m 484.92198,2167.6303 c 109.15226,-87.6164 624.44992,-65.9583 680.35332,-0.1641 55.9033,65.7943 87.8147,227.0958 -9.2568,280.1559 -97.0713,53.0595 -653.91609,74.2836 -702.49585,-4.2448 -48.57965,-78.5288 -77.75306,-188.131 31.39933,-275.747 z"
        id="path4008-8"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="zsssz" />
@@ -396,35 +396,40 @@
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;opacity:0.85500004;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.06666672;enable-background:accumulate"
-       x="1325.1765"
-       y="3533.4922"
+       x="1317.6173"
+       y="3529.4219"
        id="text4246-42-4"><tspan
          sodipodi:role="line"
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.66666603px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.06666672;enable-background:accumulate"
-         x="1325.1765"
-         y="3537.2124"
+         x="1317.6173"
+         y="3533.1421"
          id="tspan4252-9-9" /><tspan
          sodipodi:role="line"
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.66666603px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.06666672;enable-background:accumulate"
-         x="1325.1765"
-         y="3537.2124"
+         x="1317.6173"
+         y="3533.1421"
          id="tspan165" /><tspan
          sodipodi:role="line"
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.66666603px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.06666672;enable-background:accumulate"
-         x="1325.1765"
-         y="3537.2124"
+         x="1317.6173"
+         y="3533.1421"
          id="tspan87" /><tspan
          sodipodi:role="line"
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.66666603px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.06666672;enable-background:accumulate"
-         x="1325.1765"
-         y="3561.572"
-         dy="0"
-         dx="0"
-         id="tspan128">Baseret på Hereva-universet skabt af David Revoy med bidrag af Craig Maloney. Rettelser af Willem Sonke, Moini, Hali, CGand og Alex Gryson.</tspan><tspan
+         x="1317.6173"
+         y="3564.0898"
+         dy="0 0 0 0 0 0 0 0 0 0 0 0"
+         dx="0 0"
+         id="tspan128"><tspan
+   style="font-size:53.33333206px"
+   id="tspan4628" />Baseret <tspan
+   style="line-height:116.99999571%"
+   id="tspan4595"
+   dy="0">på</tspan> Hereva-universet skabt af David Revoy med bidrag af Craig Maloney. Rettelser af Willem Sonke, Moini, Hali, CGand og Alex Gryson.</tspan><tspan
          sodipodi:role="line"
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.66666603px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.06666672;enable-background:accumulate"
-         x="1325.1765"
-         y="3599.9055"
+         x="1317.6173"
+         y="3602.4233"
          id="tspan163">Licens: Creative Commons Kreditering 4.0, Værktøj: Krita, Blender, Gmic, Inkscape på Linux Ubuntu</tspan></text>
     <text
        xml:space="preserve"
